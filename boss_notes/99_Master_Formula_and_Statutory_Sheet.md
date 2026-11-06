@@ -375,31 +375,13 @@ Trade unions and industrial disputes follow a strict statutory framework:
 
 #### 1. Welfare Facilities Worker-Count Ladder
 
-```text
-25 Workers  ───> Safety Record Book & Safety Committee (Sec 90)
-40 Women    ───> Crèches / Day-Care Room for Children < 6 Years (Sec 94)
-50 Workers  ───> Rest Rooms, Lunch Rooms, Free Drinking Water (Sec 93) & Mock Fire Drill (Sec 62(8))
-100 Workers ───> Non-Profit Canteen (Sec 92) & Compulsory Group Insurance (Sec 99)
-150 Workers ───> First-Aid Box (1 box per 150 workers) (Sec 89(1))
-300 Workers ───> Dispensary & Ambulance Room with Doctor and Nursing Staff (Sec 89(4))
-```
+![Workforce Threshold Statutory Ladder](diagrams/fig_master_workforce_thresholds.jpg)
+*Figure: Workforce Threshold Statutory Ladder (Source: BLC 2006 Welfare & Safety Provisions)*
 
 #### 2. Trade Union and Dispute Settlement Timeline Chain
 
-```text
-30% Membership ───> Minimum workforce threshold to register trade union (Sec 179(2))
-60 Days        ───> Time for Director of Labour to register union or issue objection (Sec 182)
-1/3 Membership ───> Minimum workforce share for single union to become CBA directly (Sec 202(1))
-2 Years        ───> Elected tenure of a Collective Bargaining Agent (Sec 202)
-15 Days        ───> Notice to begin bipartite negotiations after dispute arises (Sec 210(1))
-30 Days        ───> Maximum window to settle dispute via bipartite talks (Sec 210(2))
-15 Days        ───> Window to report dispute to Conciliator if bipartite talks fail (Sec 210(3))
-10 Days        ───> Time for Conciliator to start formal conciliation meetings (Sec 210(5))
-30 Days        ───> Statutory conciliation period to settle the dispute (Sec 210(6))
-3 Days         ───> Time to issue Failure Certificate after conciliation breaks down (Sec 210(11))
-15 Days        ───> Time to refer failure to Arbitrator or issue Strike Notice (Sec 210(13), Sec 211)
-7 to 14 Days   ───> Mandatory advance strike notice period (14 days for public utilities) (Sec 211)
-```
+![Trade Union Statutory Thresholds and Deadlines](diagrams/fig_master_trade_union_thresholds.jpg)
+*Figure: Trade Union Statutory Thresholds and Timelines (Source: BLC 2006 Chapters XIII & XIV)*
 
 ---
 
