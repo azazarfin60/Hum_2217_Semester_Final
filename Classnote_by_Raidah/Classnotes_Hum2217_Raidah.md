@@ -4,8 +4,8 @@
 **Course Code:** Hum 2217  
 **Course Title:** Legal Issues, Industrial & Operational Management  
 **Instructors:**
-- **MRI Sir** (Industrial & Operational Management)
-- **SI Sir** (Legal Issues & Industrial Law)
+- **Dr. Md. Rabiul Islam (MRI Sir)** (Industrial & Operational Management)
+- **Shoaib Islam (SI Sir)** (Legal Issues & Industrial Law)
 
 ---
 

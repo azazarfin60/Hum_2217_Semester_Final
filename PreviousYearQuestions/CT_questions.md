@@ -10,7 +10,7 @@
 
 Class tests at RUET evaluate specific course outcomes (COs) taught by the two course instructors:
 1. **Shoaib Islam Sir (SI Sir):** Legal Issues (CO1): Contract Act 1872, Bangladesh Labour Code 2006, and Industrial Relations.
-2. **Md. Rokonuzzaman Sir (MRI Sir):** Industrial Management (CO2) and Operational Management (CO3): Management functions, managerial skills, organizational structures, and Continuous Review Inventory Systems.
+2. **Dr. Md. Rabiul Islam Sir (MRI Sir):** Industrial Management (CO2) and Operational Management (CO3): Management functions, managerial skills, organizational structures, and Continuous Review Inventory Systems.
 
 | Test Title | Instructor | Session / Series | Focus Area | CO Mapped | Full Marks | Time |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |

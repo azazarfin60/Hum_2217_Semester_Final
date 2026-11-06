@@ -22,7 +22,7 @@ This folder contains **21 self-contained, exam-ready answer files** (`L01` to `L
 - **High-Yield Model Questions:** Complete model exam answers (`02m`, `04m`, and `10m` case studies) for every unasked subtopic highlighted in [Shoaib Sir's voice-note suggestion](../Shoaib_Sir_Suggestion_VoiceNote.md) and [Raidah's class notes](../Classnote_by_Raidah/Classnotes_Hum2217_Raidah.md).
 - **Exact Instructor Grading Formats:**
   - **CO1 Legal Issues (Shoaib Islam Sir):** Verified Contract Act 1872 and Bangladesh Labour Act 2006 section citations, plus the 4-step applied case study structure (`1. Facts of the Case -> 2. Applicable Law & Section -> 3. Legal Analysis -> 4. Direct Conclusion`).
-  - **CO2 & CO3 Management & Operations (Md. Rokonuzzaman Sir):** Exact board model answer format (`Given Parameters`, `EOQ`, `ROP = dl + z\sigma_L`, `IP` inequality & boxed rule, $C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + Hz\sigma_L$, `TBO`, `N`, and high-resolution sawtooth graphs `C-1`, `C-2`, `~~~~`, `C-N`).
+  - **CO2 & CO3 Management & Operations (Dr. Md. Rabiul Islam Sir):** Exact board model answer format (`Given Parameters`, `EOQ`, `ROP = dl + z\sigma_L`, `IP` inequality & boxed rule, $C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + Hz\sigma_L$, `TBO`, `N`, and high-resolution sawtooth graphs `C-1`, `C-2`, `~~~~`, `C-N`).
 - **Simple Prose & 38 Memory Hooks:** Short, direct sentences ($\le 20$ words), zero legalese/AI stiffness, and **`> [!tip] Memory Hook`** callouts for instant recall in the exam hall.
 
 ---

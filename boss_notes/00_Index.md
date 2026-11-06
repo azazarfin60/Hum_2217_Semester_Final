@@ -34,8 +34,8 @@ flowchart TD
     
     SECA --> CO1["CO1: Legal Issues (Shoaib Islam Sir)<br/>Files 01 to 25 (L01.1 to L12.1)"]
     
-    SECB --> CO2["CO2: Industrial Management (Md. Rokonuzzaman Sir)<br/>Files 26 to 40 (M01.1 to M06.2)"]
-    SECB --> CO3["CO3: Operational Management (Md. Rokonuzzaman Sir)<br/>Files 41 to 47 (O01.1 to O03.2)"]
+    SECB --> CO2["CO2: Industrial Management (Dr. Md. Rabiul Islam Sir)<br/>Files 26 to 40 (M01.1 to M06.2)"]
+    SECB --> CO3["CO3: Operational Management (Dr. Md. Rabiul Islam Sir)<br/>Files 41 to 47 (O01.1 to O03.2)"]
 ```
 
 ### Exam Architecture
@@ -44,7 +44,7 @@ flowchart TD
   - Contains 4 main questions (10 marks each). Answer any 3 questions.
   - Strict statutory grading: Shoaib Sir checks exact section numbers from the Contract Act 1872 and BLC 2006.
   - One question is an applied 10-mark legal case study on contract frustration or breach.
-- **Section B (30 Marks · CO2 Industrial & CO3 Operational Management · Md. Rokonuzzaman Sir):**
+- **Section B (30 Marks · CO2 Industrial & CO3 Operational Management · Dr. Md. Rabiul Islam Sir):**
   - Contains 4 main questions (10 marks each). Answer any 3 questions.
   - Mix of theory and high-scoring numericals.
   - Always contains a complete Continuous Review ($Q$) System inventory numerical and a Productivity calculation.
@@ -56,8 +56,8 @@ The analysis dataset covers 4 finals (`2020` to `2024`, active syllabus only) an
 | Course Outcome | Primary Scope | Instructor | Boss Notes Range | Final Marks ('20–'24) | '23–'24 Share | CT Marks | Total Marks |
 | :-- | :-- | :-- | :-- | :-: | :-: | :-: | :-: |
 | **CO1** | Legal Issues | Shoaib Islam (SI) Sir | Files 01 to 25 (`L01.1` to `L12.1`) | 68 | 42.5% | 40 | 108 |
-| **CO2** | Industrial Management | Md. Rokonuzzaman (MRI) Sir | Files 26 to 40 (`M01.1` to `M06.2`) | 138 | 38.8% | 20 | 158 |
-| **CO3** | Operational Management | Md. Rokonuzzaman (MRI) Sir | Files 41 to 47 (`O01.1` to `O03.2`) | 50 | 18.8% | 20 | 70 |
+| **CO2** | Industrial Management | Dr. Md. Rabiul Islam (MRI) Sir | Files 26 to 40 (`M01.1` to `M06.2`) | 138 | 38.8% | 20 | 158 |
+| **CO3** | Operational Management | Dr. Md. Rabiul Islam (MRI) Sir | Files 41 to 47 (`O01.1` to `O03.2`) | 50 | 18.8% | 20 | 70 |
 | **Total** | **All Modules** | **Both Examiners** | **47 Core Files + 3 Hub Files** | **256** | **100%** | **80** | **336** |
 
 ---
@@ -113,7 +113,7 @@ Click any file link to open the self-contained note with complete theory and inl
 
 ---
 
-### Part B: CO2 Industrial Management (Files 26 to 40 · Md. Rokonuzzaman Sir)
+### Part B: CO2 Industrial Management (Files 26 to 40 · Dr. Md. Rabiul Islam Sir)
 
 | File # | Filename & Link | Subtopics | Priority | Past Marks | Key Exam Focus |
 | :---: | :--- | :--- | :--- | :---: | :--- |
@@ -135,7 +135,7 @@ Click any file link to open the self-contained note with complete theory and inl
 
 ---
 
-### Part C: CO3 Operational Management (Files 41 to 47 · Md. Rokonuzzaman Sir)
+### Part C: CO3 Operational Management (Files 41 to 47 · Dr. Md. Rabiul Islam Sir)
 
 | File # | Filename & Link | Subtopics | Priority | Past Marks | Key Exam Focus |
 | :---: | :--- | :--- | :--- | :---: | :--- |
@@ -284,7 +284,7 @@ These predictions combine four years of final exam papers, 2025 Class Tests, Sho
 
 ---
 
-### Section B Predictions (CO2 & CO3 · Md. Rokonuzzaman Sir)
+### Section B Predictions (CO2 & CO3 · Dr. Md. Rabiul Islam Sir)
 
 1. **Guaranteed Continuous Review ($Q$) System Numerical (`O02.2a`, `O02.2b`):**
    - Present in every single semester final (`2020`, `2021`, `2023`, `2024`) and tested for 20 marks in OM-CT2.

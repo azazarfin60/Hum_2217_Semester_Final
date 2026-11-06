@@ -38,8 +38,8 @@ flowchart TD
 | Course Outcome | Primary Focus | Instructor | Topic Range | Total Final Marks ('20–'24) | '23–'24 Share | CT Marks |
 | :-- | :-- | :-- | :--: | :-: | :-: | :-: |
 | **CO1** | Legal Issues | Shoaib Islam (SI) Sir | `L01` to `L12` | 68 | 42.5% | 40 |
-| **CO2** | Industrial Management | Md. Rokonuzzaman (MRI) Sir | `M01` to `M06` | 138 | 38.8% | 20 |
-| **CO3** | Operational Management | Md. Rokonuzzaman (MRI) Sir | `O01` to `O03` | 50 | 18.8% | 20 |
+| **CO2** | Industrial Management | Dr. Md. Rabiul Islam (MRI) Sir | `M01` to `M06` | 138 | 38.8% | 20 |
+| **CO3** | Operational Management | Dr. Md. Rabiul Islam (MRI) Sir | `O01` to `O03` | 50 | 18.8% | 20 |
 | **Total** | | | **21 Topics** | **256** | **100%** | **80** |
 
 ---
@@ -67,7 +67,7 @@ Click any topic link to open the exam-style answers for that module:
 
 ---
 
-### Part B: CO2 Industrial Management (Md. Rokonuzzaman Sir · Section B)
+### Part B: CO2 Industrial Management (Dr. Md. Rabiul Islam Sir · Section B)
 
 | ID | Topic Title & File Link | Final Marks | '23–'24 Marks | CT Marks | Tier | Key Syllabus Coverage |
 | :-- | :-- | :-: | :-: | :-: | :-: | :-- |
@@ -80,7 +80,7 @@ Click any topic link to open the exam-style answers for that module:
 
 ---
 
-### Part C: CO3 Operational Management (Md. Rokonuzzaman Sir · Section B)
+### Part C: CO3 Operational Management (Dr. Md. Rabiul Islam Sir · Section B)
 
 | ID | Topic Title & File Link | Final Marks | '23–'24 Marks | CT Marks | Tier | Key Syllabus Coverage |
 | :-- | :-- | :-: | :-: | :-: | :-: | :-- |

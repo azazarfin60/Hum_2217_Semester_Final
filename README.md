@@ -17,7 +17,7 @@ tags:
 > - **Credits & Exam Format:** 3.00 Credits · **60 Marks Final Exam** (3 Hours: Section A = 30 Marks, Section B = 30 Marks; 4 questions set per section, answer any 3 on separate scripts)
 > - **Course Instructors:**
 >   - **Section A (`CO1` · Legal Issues · 30 Marks):** Shoaib Islam (SI) Sir
->   - **Section B (`CO2` · Industrial Management & `CO3` · Operational Management · 30 Marks):** Md. Rokonuzzaman (MRI) Sir
+>   - **Section B (`CO2` · Industrial Management & `CO3` · Operational Management · 30 Marks):** Dr. Md. Rabiul Islam (MRI) Sir
 > - **Primary Statutes & Textbook:**
 >   - *The Contract Act, 1872* (Act IX of 1872)
 >   - *The Bangladesh Labour Act, 2006* (Act XLII of 2006, with 2013 Amendments)
@@ -138,7 +138,7 @@ All semester-final papers and class tests are preserved verbatim in [`PreviousYe
   - **Welfare Threshold Ladder (`Sec 89–99`):** `> 25` Safety record book (`Sec 90`) & female shelter room (`Sec 93`) $\to$ `>= 40 female` Crèche (`Sec 94`, children $<6\text{ yrs}$, height $\ge 360\text{ cm}$, area $\ge 6000\text{ sq. cm}$) $\to$ `> 50` Rest/lunch room (`Sec 93`) $\to$ `> 100` Canteen (`Sec 92`) & Group Insurance (`Sec 99`) $\to$ `1 per 150` First-aid box (`Sec 89(3)`) $\to$ `>= 300` Sick room & dispensary (`Sec 89(5)`).
   - **Trade Unions & Disputes (`Sec 176–211`):** `Sec 176` formation rights, `Sec 179(2)` $30\%$ registration threshold, `Sec 182` 60-day registration, `Sec 190` cancellation, `Sec 194` corporate status, `Sec 195` 12 employer ULPs, `Sec 196` 6 worker ULPs, `Sec 197–199` immunities, `Sec 202` CBA ($1/3$ votes, 2-year term) & `Sec 202(24)` 5 exclusive powers, `Sec 210` dispute ladder (`15d -> 30d -> 15d -> 10d -> 30d -> 3d -> 30d`), `Sec 211` strike notice (`7–14 days`, $\ge 2/3$ secret ballot).
 
-### Part B: Md. Rokonuzzaman Sir's IM & OM Rules (`CO2` & `CO3` · 30 Marks)
+### Part B: Dr. Md. Rabiul Islam (MRI Sir)'s IM & OM Rules (`CO2` & `CO3` · 30 Marks)
 - **Continuous Review ($Q$) System Board Format ([`O02.2a`](boss_notes/O02.2a_Q_System_Method_and_Weekly_Demand_Problems.md) & [`O02.2b`](boss_notes/O02.2b_Q_System_Daily_Demand_and_MCU_Problems.md)):** Always follow MRI Sir's exact 6-step board sequence (`D-E-R-I-C-G`):
   1. **Given Parameters:** Convert daily/weekly demand to annual demand $D$ first ($D = d \times 260\text{ operating days}$ or $d \times 52\text{ weeks}$).
   2. **Part (a) `EOQ` & `Reorder point (ROP)`:** Compute $EOQ = \sqrt{\frac{2DS}{H}}$, then write the 4-line $ROP$ chain alongside side parameters ($d, l, \sigma_L = \sigma_d\sqrt{L}$):

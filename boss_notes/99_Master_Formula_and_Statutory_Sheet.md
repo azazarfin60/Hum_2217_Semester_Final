@@ -40,8 +40,8 @@ flowchart TD
 | Section | Focus Area | Instructor | Question Pattern | Marks Needed | Primary Boss Notes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | **Section A** | CO1: Legal Issues | Shoaib Islam (SI) Sir | 4 questions set, answer any 3 (10 marks each) | 30 | [L01.1](L01.1_Definitions_of_Law_and_Society.md) to [L12.1](L12.1_Unfair_Labour_Practices_Sec_195_and_196.md) |
-| **Section B** | CO2: Industrial Management | Md. Rokonuzzaman (MRI) Sir | Set with CO3; 4 questions set, answer any 3 | 15–20 | [M01.1](M01.1_Management_Definitions_Resources_and_Nature.md) to [M06.2](M06.2_Performance_Appraisal_Methods_and_Rating_Errors.md) |
-| **Section B** | CO3: Operational Management | Md. Rokonuzzaman (MRI) Sir | Guaranteed numerical block (Q-System, Productivity) | 10–15 | [O01.1](O01.1_Inventory_Control_and_Holding_Costs.md) to [O03.2](O03.2_Productivity_Decline_Human_Factors_and_Industry_4_0.md) |
+| **Section B** | CO2: Industrial Management | Dr. Md. Rabiul Islam (MRI) Sir | Set with CO3; 4 questions set, answer any 3 | 15–20 | [M01.1](M01.1_Management_Definitions_Resources_and_Nature.md) to [M06.2](M06.2_Performance_Appraisal_Methods_and_Rating_Errors.md) |
+| **Section B** | CO3: Operational Management | Dr. Md. Rabiul Islam (MRI) Sir | Guaranteed numerical block (Q-System, Productivity) | 10–15 | [O01.1](O01.1_Inventory_Control_and_Holding_Costs.md) to [O03.2](O03.2_Productivity_Decline_Human_Factors_and_Industry_4_0.md) |
 
 ### 1.2 Shoaib Sir's Zero-Tolerance Statutory Rule (Section A)
 

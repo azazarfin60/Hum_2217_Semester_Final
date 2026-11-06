@@ -13,7 +13,7 @@ tags:
 # O03 · Productivity
 
 > [!info] Topic Summary & Exam Blueprint
-> - **Course Outcome:** CO3 (Operational Management · Md. Rokonuzzaman [MRI] Sir)
+> - **Course Outcome:** CO3 (Operational Management · Dr. Md. Rabiul Islam (MRI) Sir)
 > - **Exam Weightage:** 00 Final Marks (`0%` · 0/4 papers) + 00 CT Marks (Taught in Class 11 after CT-2)
 > - **Priority Tier:** 🟠 Very Likely (Prime Candidate for Final Exam CO3 Question)
 > - **Primary Sources:** `Industrial_and_Operations_Management/Productivity.md`, `Classnote_by_Raidah/Classnotes_Hum2217_Raidah.md` (MRI Class 11)

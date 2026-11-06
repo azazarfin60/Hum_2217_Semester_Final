@@ -46,7 +46,7 @@ Engineering students often find law and management courses frustrating. The cour
    - Boss Notes highlight every required section number in bold.
 3. **Structured Answering Formats:**
    - Case studies need a clear 4-step legal structure.
-   - Inventory calculations under Md. Rokonuzzaman Sir require a specific 6-step board layout.
+   - Inventory calculations under Dr. Md. Rabiul Islam Sir require a specific 6-step board layout.
    - Boss Notes train you to write answers in these exact formats.
 4. **Zero Academic Stiffness:**
    - Sentences are kept short and direct (under 20 words).
@@ -73,7 +73,7 @@ flowchart TD
   - Contract Act 1872: definitions (`Sec 2`), validity elements (`Sec 10`), and consideration (`Sec 25`). Also covers discharge modes and frustration case studies (`Sec 56`).
   - Bangladesh Labour Act 2006: definitions (`Sec 2`), adolescent working hours (`Sec 41`), and maternity benefits (`Sec 45–50`). Also covers fire safety (`Sec 62`), welfare measures (`Sec 89–94`), and termination rules (`Sec 20–27`).
   - Industrial relations: trade union formation and legal status (`Sec 176–199`), plus CBA powers (`Sec 202`). Also covers the dispute settlement ladder (`Sec 210`) and unfair labour practices (`Sec 195–196`).
-- **Part B: CO2 Industrial Management (Files 26–40 · `M01.1`–`M06.2` · Md. Rokonuzzaman Sir):**
+- **Part B: CO2 Industrial Management (Files 26–40 · `M01.1`–`M06.2` · Dr. Md. Rabiul Islam Sir):**
   - Management definitions (Taylor vs. Griffin), resources, and nature traits.
   - Efficiency versus effectiveness 2x2 decision matrix.
   - Management functions (`P-O-L-C`) and leadership concepts.
@@ -82,7 +82,7 @@ flowchart TD
   - Planning, rational decision making, departmentalization, delegation, and the control process.
   - Employee motivation theories: Maslow's hierarchy, Herzberg's two-factor model, and Vroom's expectancy theory.
   - Human resource management and performance appraisal rating errors.
-- **Part C: CO3 Operational Management (Files 41–47 · `O01.1`–`O03.2` · Md. Rokonuzzaman Sir):**
+- **Part C: CO3 Operational Management (Files 41–47 · `O01.1`–`O03.2` · Dr. Md. Rabiul Islam Sir):**
   - Inventory holding costs, low versus high pressures, and ABC Analysis.
   - Economic Order Quantity ($EOQ$) model, assumptions, and cost curves.
   - Continuous Review ($Q$) System board problems (weekly demand, daily demand, and MCU variants).

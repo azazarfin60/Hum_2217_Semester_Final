@@ -13,7 +13,7 @@ tags:
 # M04 · Planning, Decision Making, Organizing & Controlling
 
 > [!info] Topic Summary & Exam Blueprint
-> - **Course Outcome:** CO2 (Industrial Management · Md. Rokonuzzaman Sir)
+> - **Course Outcome:** CO2 (Industrial Management · Dr. Md. Rabiul Islam Sir)
 > - **Exam Weightage:** 19 Final Marks (`7.4%` · 2/4 papers) + 02 CT Marks
 > - **Priority Tier:** 🟡 Medium (Tested in 2021 & 2023 Finals + 2025 IM-CT1)
 > - **Primary Sources:** `Books/Fundamentals_of_Management_Griffin/` (Ch. 3, 4, 6, 14), `Classnote_by_Raidah/Classnotes_Hum2217_Raidah.md` (Classes 1–2), `PreviousYearQuestions/CT_questions.md` (§2)
