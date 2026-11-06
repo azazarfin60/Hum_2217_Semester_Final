@@ -1,0 +1,21 @@
+{
+  "description": "The nature of organizational conflict: bell-shaped curve showing performance as a function of conflict level, highlighting optimal level of conflict",
+  "source_image": "page_439.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 36.9,
+    "left": 46.5,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 557,
+    "y1": 120,
+    "x2": 1103,
+    "y2": 553
+  },
+  "crop_size": {
+    "width": 546,
+    "height": 433
+  },
+  "figure_id": "Fig_13.5"
+}

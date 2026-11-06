@@ -1,0 +1,21 @@
+{
+  "description": "The 'Big Five' Model of Personality showing five personality trait continuums: Agreeableness (high to low), Conscientiousness (high to low), Neuroticism (less neurotic to more neurotic), Extraversion (more extraversion to more introversion), and Openness (more openness to less openness)",
+  "source_image": "page_294.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 41.0,
+    "left": 31.5,
+    "right": 92.5
+  },
+  "crop_pixels": {
+    "x1": 377,
+    "y1": 142,
+    "x2": 1109,
+    "y2": 615
+  },
+  "crop_size": {
+    "width": 732,
+    "height": 473
+  },
+  "figure_id": "Fig_Ch9.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Arguments for and Against Social Responsibility diagram comparing four arguments for social responsibility (business creates problems, corporations are citizens, business has resources, business is a partner) versus four arguments against social responsibility (purpose is profit for owners, too much power, potential conflicts of interest, lack of expertise to manage social programs)",
+  "source_image": "page_076.jpg",
+  "crop_percentages": {
+    "top": 51.0,
+    "bottom": 85.4,
+    "left": 9.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 107,
+    "y1": 765,
+    "x2": 1151,
+    "y2": 1281
+  },
+  "crop_size": {
+    "width": 1044,
+    "height": 516
+  },
+  "figure_id": "Fig_2.2"
+}

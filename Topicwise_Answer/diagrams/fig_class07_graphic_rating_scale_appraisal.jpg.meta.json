@@ -1,0 +1,21 @@
+{
+  "description": "Graphic Rating Scales for a Bank Teller measuring Punctuality, Congeniality, and Accuracy on a 4-point scale from Strongly disagree to Strongly agree",
+  "source_image": "page_267.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 55.1,
+    "left": 26.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 311,
+    "y1": 150,
+    "x2": 1031,
+    "y2": 826
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 676
+  },
+  "figure_id": "Fig_8.2"
+}

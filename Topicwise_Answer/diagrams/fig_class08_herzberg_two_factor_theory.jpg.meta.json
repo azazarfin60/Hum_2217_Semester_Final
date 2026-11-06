@@ -1,0 +1,21 @@
+{
+  "description": "The Two-Factor Theory of Motivation showing the Motivation Factors continuum (Satisfaction to No satisfaction) and Hygiene Factors continuum (Dissatisfaction to No dissatisfaction)",
+  "source_image": "page_327.jpg",
+  "crop_percentages": {
+    "top": 9.67,
+    "bottom": 24.67,
+    "left": 22.94,
+    "right": 87.57
+  },
+  "crop_pixels": {
+    "x1": 275,
+    "y1": 145,
+    "x2": 1049,
+    "y2": 370
+  },
+  "crop_size": {
+    "width": 774,
+    "height": 225
+  },
+  "figure_id": "Fig_10.3"
+}

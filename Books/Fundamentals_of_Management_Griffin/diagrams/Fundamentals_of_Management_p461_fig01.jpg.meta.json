@@ -1,0 +1,21 @@
+{
+  "description": "Figure 14.3: Steps in the Control Process \u2014 Four steps: 1. Establish standards, 2. Measure performance, 3. Compare performance against standards, 4. Determine need for corrective action (Maintain status quo, Correct deviation, Change standards)",
+  "source_image": "page_461.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 31.2,
+    "left": 6.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 71,
+    "y1": 150,
+    "x2": 1067,
+    "y2": 468
+  },
+  "crop_size": {
+    "width": 996,
+    "height": 318
+  },
+  "figure_id": "Fig_14.3"
+}

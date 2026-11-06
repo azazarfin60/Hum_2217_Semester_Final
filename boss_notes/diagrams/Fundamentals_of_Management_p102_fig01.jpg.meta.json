@@ -1,0 +1,21 @@
+{
+  "description": "SWOT Analysis: Linking mission to internal analysis of strengths and weaknesses and external analysis of opportunities and threats to formulate good strategies",
+  "source_image": "page_102.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 49.0,
+    "left": 42.0,
+    "right": 79.5
+  },
+  "crop_pixels": {
+    "x1": 503,
+    "y1": 157,
+    "x2": 953,
+    "y2": 735
+  },
+  "crop_size": {
+    "width": 450,
+    "height": 578
+  },
+  "figure_id": "Fig_Ch3.2"
+}

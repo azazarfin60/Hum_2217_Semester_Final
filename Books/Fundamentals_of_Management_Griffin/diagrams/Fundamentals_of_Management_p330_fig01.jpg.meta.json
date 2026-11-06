@@ -1,0 +1,21 @@
+{
+  "description": "The Porter\u2013Lawler Extension of Expectancy Theory showing Performance leading to Intrinsic and Extrinsic rewards, Perceived equity, and Satisfaction",
+  "source_image": "page_330.jpg",
+  "crop_percentages": {
+    "top": 58.67,
+    "bottom": 79.0,
+    "left": 30.02,
+    "right": 90.91
+  },
+  "crop_pixels": {
+    "x1": 359,
+    "y1": 880,
+    "x2": 1090,
+    "y2": 1185
+  },
+  "crop_size": {
+    "width": 731,
+    "height": 305
+  },
+  "figure_id": "Fig_10.5"
+}

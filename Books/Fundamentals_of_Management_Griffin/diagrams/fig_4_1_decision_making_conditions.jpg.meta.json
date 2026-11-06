@@ -1,0 +1,21 @@
+{
+  "description": "Decision-Making Conditions continuum showing conditions of Certainty, Risk, and Uncertainty corresponding to lower, moderate, and higher levels of ambiguity and chances of making a bad decision",
+  "source_image": "page_131.jpg",
+  "crop_percentages": {
+    "top": 60.0,
+    "bottom": 82.8,
+    "left": 28.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 335,
+    "y1": 900,
+    "x2": 1055,
+    "y2": 1242
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 342
+  },
+  "figure_id": "Fig_4.1"
+}

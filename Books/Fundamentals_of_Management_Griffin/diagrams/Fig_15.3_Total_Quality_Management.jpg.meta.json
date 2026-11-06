@@ -1,0 +1,21 @@
+{
+  "description": "Total Quality Management (TQM) framework diagram showing Strategic commitment driving Employee involvement, Materials, Methods, and Technology, leading to Quality improvements",
+  "source_image": "page_504.jpg",
+  "crop_percentages": {
+    "top": 61.5,
+    "bottom": 86.9,
+    "left": 27.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 922,
+    "x2": 1151,
+    "y2": 1303
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 381
+  },
+  "figure_id": "Fig_15.3"
+}

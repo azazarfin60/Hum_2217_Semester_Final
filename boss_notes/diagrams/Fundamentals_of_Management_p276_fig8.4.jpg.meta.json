@@ -1,0 +1,21 @@
+{
+  "description": "The Union-Organizing Process flowchart: Generate interest in union among employees -> Collect signed authorization cards (if less than 30 percent sign, process ends) -> Petition NLRB to hold election -> Secret ballot election is held (if union rejected by majority vote, process ends) -> Union signs up members and elects officers -> Collective bargaining over first labor contract -> Labor contract signed -> Grievance procedure used to resolve disputes during life of contract",
+  "source_image": "page_276.jpg",
+  "crop_percentages": {
+    "top": 37.3,
+    "bottom": 83.24,
+    "left": 30.8,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 369,
+    "y1": 559,
+    "x2": 1091,
+    "y2": 1248
+  },
+  "crop_size": {
+    "width": 722,
+    "height": 689
+  },
+  "figure_id": "Fig_8.4"
+}

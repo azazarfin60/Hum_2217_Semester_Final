@@ -1,0 +1,21 @@
+{
+  "description": "Economic Order Quantity (EOQ) cost curves showing Annual cost (dollars) vs Lot Size (Q): Holding cost (HC), Ordering cost (OC), and Total cost = HC + OC",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 65.0,
+    "bottom": 85.1,
+    "left": 11.5,
+    "right": 64.5
+  },
+  "crop_pixels": {
+    "x1": 195,
+    "y1": 1820,
+    "x2": 1096,
+    "y2": 2382
+  },
+  "crop_size": {
+    "width": 901,
+    "height": 562
+  },
+  "figure_id": "Fig_Inv.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The Job Characteristics Approach diagram showing Core Job Dimensions (Skill variety, Task identity, Task significance, Autonomy, Feedback) leading to Critical Psychological States (Experienced meaningfulness, Experienced responsibility, Knowledge of results) moderated by Employee growth-need strength, producing Personal and Work Outcomes (High internal motivation, High-quality performance, High satisfaction, Low absenteeism and turnover)",
+  "source_image": "page_194.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 57.7,
+    "left": 30.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 359,
+    "y1": 150,
+    "x2": 1091,
+    "y2": 865
+  },
+  "crop_size": {
+    "width": 732,
+    "height": 715
+  },
+  "figure_id": "Fig_6.1"
+}

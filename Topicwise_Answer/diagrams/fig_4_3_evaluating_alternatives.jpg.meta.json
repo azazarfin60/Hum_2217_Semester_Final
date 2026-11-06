@@ -1,0 +1,21 @@
+{
+  "description": "Decision tree for evaluating alternatives in the decision-making process: sequential tests of feasibility, satisfactoriness, and affordability with eliminate or retain outcomes",
+  "source_image": "page_136.jpg",
+  "crop_percentages": {
+    "top": 63.5,
+    "bottom": 83.5,
+    "left": 10.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 119,
+    "y1": 952,
+    "x2": 1115,
+    "y2": 1252
+  },
+  "crop_size": {
+    "width": 996,
+    "height": 300
+  },
+  "figure_id": "Fig_4.3"
+}

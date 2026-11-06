@@ -1,0 +1,21 @@
+{
+  "description": "Figure 14.5: Developing Budgets in Organizations \u2014 Flowchart showing Operating unit budget requests submitted to Division budget requests, and compiled into Organizational budget approved by budget committee, controller, and CEO",
+  "source_image": "page_468.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 49.2,
+    "left": 29.0,
+    "right": 93.5
+  },
+  "crop_pixels": {
+    "x1": 347,
+    "y1": 135,
+    "x2": 1121,
+    "y2": 738
+  },
+  "crop_size": {
+    "width": 774,
+    "height": 603
+  },
+  "figure_id": "Fig_14.5"
+}

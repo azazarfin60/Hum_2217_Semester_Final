@@ -1,0 +1,21 @@
+{
+  "description": "The Planning Process: A generic framework linking the environmental context, organizational mission, and parallel streams of strategic, tactical, and operational goals and plans",
+  "source_image": "page_097.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 38.2,
+    "left": 27.0,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 157,
+    "x2": 965,
+    "y2": 573
+  },
+  "crop_size": {
+    "width": 642,
+    "height": 416
+  },
+  "figure_id": "Fig_Ch3.1"
+}

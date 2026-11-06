@@ -1,0 +1,21 @@
+{
+  "description": "Diagram showing representative jobs created and lost by big business, 2013\u20132014: downward arrow for Job Losses (Barclays -12,000, Merck -8,500, JP Morgan -8,000, Wells Fargo -6,000, Bank of America -4,200, IBM -3,020, Aetna -3,000, Eli Lilly -1,600, AIG -1,500) and upward arrow for Job Gains (Kroger +7,000, Toys R Us +6,750, Caterpillar +3,500, AT&T +3,000, Amazon.com +2,500, Motorola +2,000, CarMax +1,200, Ford +1,200, Nissan +1,000)",
+  "source_image": "page_161.jpg",
+  "crop_percentages": {
+    "top": 6.5,
+    "bottom": 50.2,
+    "left": 20.0,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 239,
+    "y1": 97,
+    "x2": 1073,
+    "y2": 753
+  },
+  "crop_size": {
+    "width": 834,
+    "height": 656
+  },
+  "figure_id": "Fig_5.2"
+}

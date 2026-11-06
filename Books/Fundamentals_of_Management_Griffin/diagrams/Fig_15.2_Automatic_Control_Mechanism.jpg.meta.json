@@ -1,0 +1,21 @@
+{
+  "description": "A Simple Automatic Control Mechanism showing feedback loop: Thermostat tests air (sensor), detects high/low temperature (information), and turns off/on furnace (control)",
+  "source_image": "page_496.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 37.4,
+    "left": 27.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 120,
+    "x2": 1151,
+    "y2": 561
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 441
+  },
+  "figure_id": "Fig_15.2"
+}

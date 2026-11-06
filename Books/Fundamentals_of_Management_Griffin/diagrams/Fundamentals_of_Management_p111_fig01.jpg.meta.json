@@ -1,0 +1,21 @@
+{
+  "description": "The GE Business Screen matrix evaluating competitive position (Good, Medium, Poor) and industry attractiveness (High, Medium, Low) into Winners, Question marks, Average businesses, Losers, and Profit producers",
+  "source_image": "page_111.jpg",
+  "crop_percentages": {
+    "top": 38.5,
+    "bottom": 73.0,
+    "left": 27.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 577,
+    "x2": 1019,
+    "y2": 1095
+  },
+  "crop_size": {
+    "width": 696,
+    "height": 518
+  },
+  "figure_id": "Fig_Ch3.5"
+}

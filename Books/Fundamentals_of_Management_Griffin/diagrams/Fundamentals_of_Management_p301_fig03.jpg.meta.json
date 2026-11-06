@@ -1,0 +1,21 @@
+{
+  "description": "Perceptual Processes illustration depicting Selective Perception (screening out uncomfortable information represented by minus signs while retaining plus signs) and Stereotyping (categorizing or labeling on the basis of a single attribute)",
+  "source_image": "page_301.jpg",
+  "crop_percentages": {
+    "top": 61.0,
+    "bottom": 82.5,
+    "left": 25.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 299,
+    "y1": 915,
+    "x2": 1055,
+    "y2": 1237
+  },
+  "crop_size": {
+    "width": 756,
+    "height": 322
+  },
+  "figure_id": "Fig_Ch9.3"
+}

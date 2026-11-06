@@ -1,0 +1,21 @@
+{
+  "description": "A Matrix Organization chart showing CEO overseeing Vice Presidents of Engineering, Production, Finance, and Marketing at the top, and Project Managers A, B, and C along the side, with Employees at the intersections forming dual-reporting project groups",
+  "source_image": "page_209.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 52.7,
+    "left": 4.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 47,
+    "y1": 150,
+    "x2": 1067,
+    "y2": 790
+  },
+  "crop_size": {
+    "width": 1020,
+    "height": 640
+  },
+  "figure_id": "Fig_6.5"
+}

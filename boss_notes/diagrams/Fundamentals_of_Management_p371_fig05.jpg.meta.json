@@ -1,0 +1,21 @@
+{
+  "description": "Vroom's Development-Driven Decision Tree matrix showing decision paths based on problem attributes (Decision Significance, Importance of Commitment, Leader Expertise, Likelihood of Commitment, Group Support, Group Expertise, Team Competence) aimed at employee development and leading to recommended decision styles",
+  "source_image": "page_371.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 48.0,
+    "left": 26.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 311,
+    "y1": 142,
+    "x2": 1067,
+    "y2": 720
+  },
+  "crop_size": {
+    "width": 756,
+    "height": 578
+  },
+  "figure_id": "Fig_11.5"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The Leader-Member Exchange (LMX) Model showing the vertical dyad relationships between a Leader and individual subordinates, dividing them into an Out-Group (Subordinates 1, 2, and 3 with formal, low-exchange relationship) and an In-Group (Subordinates 4 and 5 with high-exchange, trusted relationship)",
+  "source_image": "page_372.jpg",
+  "crop_percentages": {
+    "top": 63.5,
+    "bottom": 84.7,
+    "left": 26.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 311,
+    "y1": 952,
+    "x2": 1115,
+    "y2": 1270
+  },
+  "crop_size": {
+    "width": 804,
+    "height": 318
+  },
+  "figure_id": "Fig_11.6"
+}

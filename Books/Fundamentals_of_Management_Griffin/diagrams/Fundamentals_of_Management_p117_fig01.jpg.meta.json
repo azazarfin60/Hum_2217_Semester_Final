@@ -1,0 +1,21 @@
+{
+  "description": "Contingency Planning process across four action points: 1. Develop plan, considering contingency events; 2. Implement plan and formally identify contingency events; 3. Specify indicators for contingency events and develop contingency plans; 4. Successfully complete plan or contingency plan; with ongoing monitoring",
+  "source_image": "page_117.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 85.5,
+    "left": 6.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 71,
+    "y1": 945,
+    "x2": 1055,
+    "y2": 1282
+  },
+  "crop_size": {
+    "width": 984,
+    "height": 337
+  },
+  "figure_id": "Fig_Ch3.6"
+}

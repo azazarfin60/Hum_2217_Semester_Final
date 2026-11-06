@@ -1,0 +1,21 @@
+{
+  "description": "Fishbone cause-and-effect graphical diagram used by quality circles to initiate resolution of workspace problems, showing spine, diagonal ribs for major causes, and fish head block for the problem",
+  "source_image": "page_515.jpg",
+  "crop_percentages": {
+    "top": 26.0,
+    "bottom": 44.9,
+    "left": 14.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 167,
+    "y1": 390,
+    "x2": 983,
+    "y2": 673
+  },
+  "crop_size": {
+    "width": 816,
+    "height": 283
+  },
+  "figure_id": "Fig_Fishbone"
+}

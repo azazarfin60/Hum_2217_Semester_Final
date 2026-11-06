@@ -1,0 +1,21 @@
+{
+  "description": "Informal communication in organizations illustrating how communication pathways may bypass official reporting relationships across different levels and work units",
+  "source_image": "page_404.jpg",
+  "crop_percentages": {
+    "top": 63.5,
+    "bottom": 85.0,
+    "left": 3.0,
+    "right": 94.0
+  },
+  "crop_pixels": {
+    "x1": 35,
+    "y1": 952,
+    "x2": 1127,
+    "y2": 1275
+  },
+  "crop_size": {
+    "width": 1092,
+    "height": 323
+  },
+  "figure_id": "Fig_Ch12.4"
+}

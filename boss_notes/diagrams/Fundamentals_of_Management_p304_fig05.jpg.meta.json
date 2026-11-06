@@ -1,0 +1,21 @@
+{
+  "description": "Causes of Work Stress diagram detailing four categories of Organizational Stressors: Task Demands (quick decisions, incomplete information, critical decisions), Physical Demands (temperature extremes, poorly designed office, threats to health), Role Demands (role conflict, role ambiguity), and Interpersonal Demands (group pressures, leadership styles, conflicting personalities)",
+  "source_image": "page_304.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 25.5,
+    "left": 27.5,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 329,
+    "y1": 157,
+    "x2": 1115,
+    "y2": 382
+  },
+  "crop_size": {
+    "width": 786,
+    "height": 225
+  },
+  "figure_id": "Fig_Ch9.5"
+}

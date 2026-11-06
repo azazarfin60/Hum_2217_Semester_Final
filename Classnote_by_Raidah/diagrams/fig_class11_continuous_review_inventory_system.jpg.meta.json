@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn continuous review system inventory graph showing inventory cycles C-1 to C-60, peak inventory at EOQ (440), Reorder Point (ROP = 373), lead time (3 days), and cycle time (4.4 days)",
+  "source_image": "page_011.jpg",
+  "crop_percentages": {
+    "top": 44.0,
+    "bottom": 80.2,
+    "left": 3.0,
+    "right": 46.0
+  },
+  "crop_pixels": {
+    "x1": 70,
+    "y1": 727,
+    "x2": 1075,
+    "y2": 1325
+  },
+  "crop_size": {
+    "width": 1005,
+    "height": 598
+  },
+  "figure_id": "Fig_Class11.1"
+}

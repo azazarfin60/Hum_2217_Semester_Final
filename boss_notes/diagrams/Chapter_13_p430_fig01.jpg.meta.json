@@ -1,0 +1,21 @@
+{
+  "description": "Stages of group development: four sequential stages including Forming, Storming, Norming, and Performing with evolution arrows",
+  "source_image": "page_430.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 72.4,
+    "left": 44.0,
+    "right": 77.0
+  },
+  "crop_pixels": {
+    "x1": 527,
+    "y1": 120,
+    "x2": 923,
+    "y2": 1086
+  },
+  "crop_size": {
+    "width": 396,
+    "height": 966
+  },
+  "figure_id": "Fig_13.2"
+}

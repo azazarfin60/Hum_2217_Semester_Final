@@ -1,0 +1,21 @@
+{
+  "description": "Types of groups in organizations: organizational hierarchy illustrating functional group in purple, cross-functional team in yellow, and informal group in green",
+  "source_image": "page_424.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 67.9,
+    "left": 28.5,
+    "right": 92.5
+  },
+  "crop_pixels": {
+    "x1": 341,
+    "y1": 120,
+    "x2": 1109,
+    "y2": 1018
+  },
+  "crop_size": {
+    "width": 768,
+    "height": 898
+  },
+  "figure_id": "Fig_13.1"
+}

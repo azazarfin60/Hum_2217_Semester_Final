@@ -1,0 +1,21 @@
+{
+  "description": "The Innovation Process cycle: 1. Development (evaluates, modifies, improves), 2. Application (uses developed idea in design, manufacturing), 3. Launch (introduces new products or services to marketplace), 4. Growth (demand for new products grows), 5. Maturity (most competing organizations have access), 6. Decline (demand decreases, substitute innovations emerge)",
+  "source_image": "page_238.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 85.7,
+    "left": 10.5,
+    "right": 94.5
+  },
+  "crop_pixels": {
+    "x1": 125,
+    "y1": 945,
+    "x2": 1133,
+    "y2": 1285
+  },
+  "crop_size": {
+    "width": 1008,
+    "height": 340
+  },
+  "figure_id": "Fig_7.4"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Bar graph illustrating Business Start-Up Successes and Failures from 1993 to 2008, showing annual business start-ups (positive numbers up to 1,000,000) and business closures (negative numbers down to -1,000,000)",
+  "source_image": "page_178.jpg",
+  "crop_percentages": {
+    "top": 47.0,
+    "bottom": 83.5,
+    "left": 14.0,
+    "right": 90.5
+  },
+  "crop_pixels": {
+    "x1": 167,
+    "y1": 705,
+    "x2": 1085,
+    "y2": 1252
+  },
+  "crop_size": {
+    "width": 918,
+    "height": 547
+  },
+  "figure_id": "Fig_5.5"
+}

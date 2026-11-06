@@ -1,0 +1,21 @@
+{
+  "description": "The Product Life Cycle showing the four stages: Introduction, Growth, Maturity, and Decline plotted against Sales Volume and Time",
+  "source_image": "page_105.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 33.0,
+    "left": 26.5,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 317,
+    "y1": 157,
+    "x2": 1019,
+    "y2": 495
+  },
+  "crop_size": {
+    "width": 702,
+    "height": 338
+  },
+  "figure_id": "Fig_Ch3.3"
+}

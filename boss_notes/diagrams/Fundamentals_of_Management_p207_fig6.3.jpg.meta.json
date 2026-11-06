@@ -1,0 +1,21 @@
+{
+  "description": "Conglomerate (H-Form) Design at Samsung organization chart showing CEO overseeing four unrelated business groups: Telecommunications, Appliances, Media, and Semiconductors",
+  "source_image": "page_207.jpg",
+  "crop_percentages": {
+    "top": 68.0,
+    "bottom": 83.2,
+    "left": 23.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 275,
+    "y1": 1020,
+    "x2": 1031,
+    "y2": 1248
+  },
+  "crop_size": {
+    "width": 756,
+    "height": 228
+  },
+  "figure_id": "Fig_6.3"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Maslow's Hierarchy of Needs pyramid showing five levels (Physiology, Security, Belongingness, Esteem, Self-actualization) with General Examples and Organizational Examples",
+  "source_image": "page_325.jpg",
+  "crop_percentages": {
+    "top": 51.33,
+    "bottom": 79.33,
+    "left": 25.85,
+    "right": 85.9
+  },
+  "crop_pixels": {
+    "x1": 309,
+    "y1": 769,
+    "x2": 1029,
+    "y2": 1189
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 420
+  },
+  "figure_id": "Fig_10.2"
+}

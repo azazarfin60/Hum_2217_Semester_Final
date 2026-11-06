@@ -1,0 +1,21 @@
+{
+  "description": "Pie chart showing Small Businesses (Fewer than 20 Employees) by Industry: Services 40.5%, Other 20%, Retailing 11.7%, Construction 11.7%, Wholesaling 5.2%, Finance & Insurance 4.2%, Manufacturing 3.8%, Transportation 2.8%",
+  "source_image": "page_163.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 37.0,
+    "left": 24.0,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 120,
+    "x2": 1073,
+    "y2": 555
+  },
+  "crop_size": {
+    "width": 786,
+    "height": 435
+  },
+  "figure_id": "Fig_5.3"
+}

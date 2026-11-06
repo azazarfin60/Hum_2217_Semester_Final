@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn Maslow's Hierarchy of Needs pyramid diagram showing Physiological (basic need), Safety (basic need), Social (we belong here), Esteem, and Self-actualization levels",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 40.0,
+    "bottom": 58.2,
+    "left": 7.0,
+    "right": 44.0
+  },
+  "crop_pixels": {
+    "x1": 163,
+    "y1": 661,
+    "x2": 1029,
+    "y2": 962
+  },
+  "crop_size": {
+    "width": 866,
+    "height": 301
+  },
+  "figure_id": "Fig_Class08.1"
+}

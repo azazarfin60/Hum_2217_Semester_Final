@@ -1,0 +1,21 @@
+{
+  "description": "Graphs showing Economies of Scale in Small-Business Organizations: (a) Standard economies-of-scale curve showing cost of production per unit versus number of units produced; (b) Change in technology shifting economies of scale from Point A to Point B, enabling small-business manufacturing",
+  "source_image": "page_167.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 36.2,
+    "left": 6.0,
+    "right": 89.5
+  },
+  "crop_pixels": {
+    "x1": 71,
+    "y1": 142,
+    "x2": 1073,
+    "y2": 543
+  },
+  "crop_size": {
+    "width": 1002,
+    "height": 401
+  },
+  "figure_id": "Fig_5.4"
+}

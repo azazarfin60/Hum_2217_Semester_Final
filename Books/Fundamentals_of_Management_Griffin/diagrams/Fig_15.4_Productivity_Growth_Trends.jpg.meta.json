@@ -1,0 +1,21 @@
+{
+  "description": "Graph of Manufacturing and Service Productivity Growth Trends (Index: 1982 = 100) from 1970 to 2010, comparing Total, Manufacturing, and Service productivity growth",
+  "source_image": "page_510.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 53.9,
+    "left": 27.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 120,
+    "x2": 1151,
+    "y2": 808
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 688
+  },
+  "figure_id": "Fig_15.4"
+}

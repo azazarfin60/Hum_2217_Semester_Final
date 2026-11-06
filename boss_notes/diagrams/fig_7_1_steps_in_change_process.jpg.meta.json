@@ -1,0 +1,21 @@
+{
+  "description": "Steps in the Change Process: Recognition of the need for change, Establishment of goals for the change, Diagnosis of relevant variables, Selection of appropriate change technique, Planning for implementation of the change, Actual implementation, Evaluation and follow-up",
+  "source_image": "page_226.jpg",
+  "crop_percentages": {
+    "top": 9.3,
+    "bottom": 51.5,
+    "left": 40.5,
+    "right": 80.8
+  },
+  "crop_pixels": {
+    "x1": 485,
+    "y1": 139,
+    "x2": 968,
+    "y2": 772
+  },
+  "crop_size": {
+    "width": 483,
+    "height": 633
+  },
+  "figure_id": "Fig_7.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Front cover of Fundamentals of Management, Eighth Edition by Ricky W. Griffin featuring a circular mosaic tile artwork",
+  "source_image": "page_001.jpg",
+  "crop_percentages": {
+    "top": 0,
+    "bottom": 100,
+    "left": 0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 0,
+    "y1": 0,
+    "x2": 1199,
+    "y2": 1500
+  },
+  "crop_size": {
+    "width": 1199,
+    "height": 1500
+  },
+  "figure_id": "Cover"
+}

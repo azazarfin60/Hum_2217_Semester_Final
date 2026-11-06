@@ -1,0 +1,21 @@
+{
+  "description": "Figure 14.2: Levels of Control \u2014 Hierarchy diagram illustrating strategic control at top, structural control, operations control, and financial control",
+  "source_image": "page_460.jpg",
+  "crop_percentages": {
+    "top": 14.0,
+    "bottom": 37.2,
+    "left": 29.0,
+    "right": 93.5
+  },
+  "crop_pixels": {
+    "x1": 347,
+    "y1": 210,
+    "x2": 1121,
+    "y2": 558
+  },
+  "crop_size": {
+    "width": 774,
+    "height": 348
+  },
+  "figure_id": "Fig_14.2"
+}

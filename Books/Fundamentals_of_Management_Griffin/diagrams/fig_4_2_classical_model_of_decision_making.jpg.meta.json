@@ -1,0 +1,21 @@
+{
+  "description": "The Classical Model of Decision Making sequential process: When faced with a decision situation, managers should obtain complete and perfect information, eliminate uncertainty, evaluate everything rationally and logically, and end up with a decision that best serves the interests of the organization.",
+  "source_image": "page_134.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 22.0,
+    "left": 16.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 191,
+    "y1": 150,
+    "x2": 1055,
+    "y2": 330
+  },
+  "crop_size": {
+    "width": 864,
+    "height": 180
+  },
+  "figure_id": "Fig_4.2"
+}

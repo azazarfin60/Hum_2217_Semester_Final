@@ -1,0 +1,21 @@
+{
+  "description": "Multidivisional (M-Form) Design at Hilton Hotels organization chart showing CEO overseeing related brand divisions: Conrad Hotels & Resorts, Doubletree Hotels, Embassy Suites Hotels, Hampton Inn & Suites, Hilton Garden Inn, Hilton Grand Vacations Club, and Homewood Suites by Hilton",
+  "source_image": "page_208.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 25.7,
+    "left": 9.5,
+    "right": 93.5
+  },
+  "crop_pixels": {
+    "x1": 113,
+    "y1": 150,
+    "x2": 1121,
+    "y2": 385
+  },
+  "crop_size": {
+    "width": 1008,
+    "height": 235
+  },
+  "figure_id": "Fig_6.4"
+}

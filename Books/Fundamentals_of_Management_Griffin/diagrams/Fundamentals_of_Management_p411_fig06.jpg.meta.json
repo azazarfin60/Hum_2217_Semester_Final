@@ -1,0 +1,21 @@
+{
+  "description": "Comparison of more effective listening skills versus less effective listening skills in interpersonal organizational communication",
+  "source_image": "page_411.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 40.5,
+    "left": 9.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 107,
+    "y1": 157,
+    "x2": 1055,
+    "y2": 607
+  },
+  "crop_size": {
+    "width": 948,
+    "height": 450
+  },
+  "figure_id": "Fig_Ch12.6"
+}

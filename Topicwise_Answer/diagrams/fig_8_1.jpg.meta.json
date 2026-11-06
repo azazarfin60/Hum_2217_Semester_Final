@@ -1,0 +1,21 @@
+{
+  "description": "Human Resource Planning process model showing assessment of trends in external labor markets, current employees, organizational plans, and economic trends, leading to demand prediction, forecasting of internal and external supply, comparison of future demand and internal supply, and planning for shortfalls or overstaffing",
+  "source_image": "page_260.jpg",
+  "crop_percentages": {
+    "top": 43.2,
+    "bottom": 84.16,
+    "left": 30.2,
+    "right": 91.8
+  },
+  "crop_pixels": {
+    "x1": 362,
+    "y1": 648,
+    "x2": 1100,
+    "y2": 1262
+  },
+  "crop_size": {
+    "width": 738,
+    "height": 614
+  },
+  "figure_id": "Fig_8.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Management process diagram showing inputs from environment (Human, Financial, Physical, Information resources), management functions (Planning and decision making, Organizing, Leading, Controlling), and goals attained (Efficiently, Effectively)",
+  "source_image": "page_001.jpg",
+  "crop_percentages": {
+    "top": 22.5,
+    "bottom": 44.7,
+    "left": 10.5,
+    "right": 87.5
+  },
+  "crop_pixels": {
+    "x1": 173,
+    "y1": 526,
+    "x2": 1447,
+    "y2": 1045
+  },
+  "crop_size": {
+    "width": 1274,
+    "height": 519
+  },
+  "figure_id": "Fig_L1.1"
+}

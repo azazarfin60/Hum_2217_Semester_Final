@@ -1,0 +1,21 @@
+{
+  "description": "The BCG Matrix: Evaluating SBUs on Market Growth Rate (High/Low) and Relative Market Share (High/Low) into Stars, Question marks, Cash cows, and Dogs",
+  "source_image": "page_110.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 34.2,
+    "left": 40.5,
+    "right": 81.5
+  },
+  "crop_pixels": {
+    "x1": 485,
+    "y1": 157,
+    "x2": 977,
+    "y2": 513
+  },
+  "crop_size": {
+    "width": 492,
+    "height": 356
+  },
+  "figure_id": "Fig_Ch3.4"
+}

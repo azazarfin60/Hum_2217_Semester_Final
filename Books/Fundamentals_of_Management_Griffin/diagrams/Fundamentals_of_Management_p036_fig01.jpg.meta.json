@@ -1,0 +1,21 @@
+{
+  "description": "The Management Process: Four basic activities \u2014 Planning and Decision Making, Organizing, Leading, and Controlling \u2014 with sequential solid arrows and iterative dotted arrows connecting them",
+  "source_image": "page_036.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 44.0,
+    "left": 39.0,
+    "right": 84.0
+  },
+  "crop_pixels": {
+    "x1": 467,
+    "y1": 150,
+    "x2": 1007,
+    "y2": 660
+  },
+  "crop_size": {
+    "width": 540,
+    "height": 510
+  },
+  "figure_id": "Fig_Ch01_02"
+}

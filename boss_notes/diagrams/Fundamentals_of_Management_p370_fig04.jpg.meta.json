@@ -1,0 +1,21 @@
+{
+  "description": "Vroom's Time-Driven Decision Tree matrix showing decision paths based on seven problem attributes (Decision Significance, Importance of Commitment, Leader Expertise, Likelihood of Commitment, Group Support, Group Expertise, Team Competence) leading to recommended decision styles (Decide, Consult individually, Consult group, Facilitate, Delegate)",
+  "source_image": "page_370.jpg",
+  "crop_percentages": {
+    "top": 23.5,
+    "bottom": 76.0,
+    "left": 27.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 352,
+    "x2": 1115,
+    "y2": 1140
+  },
+  "crop_size": {
+    "width": 792,
+    "height": 788
+  },
+  "figure_id": "Fig_11.4"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "McDonald's Task Environment diagram showing the organization at the center surrounded by internal and task environment dimensions: Competitors (Burger King, Starbucks, Subway, Dairy Queen), Customers (Individual and Institutional), Suppliers (Coca-Cola, wholesale food processors, packaging manufacturers), Strategic Partners (Walmart, Disney, foreign partners), and Regulators (FDA, SEC, EPA)",
+  "source_image": "page_070.jpg",
+  "crop_percentages": {
+    "top": 8.0,
+    "bottom": 60.4,
+    "left": 26.0,
+    "right": 95.0
+  },
+  "crop_pixels": {
+    "x1": 311,
+    "y1": 120,
+    "x2": 1139,
+    "y2": 906
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 786
+  },
+  "figure_id": "Fig_2.1"
+}

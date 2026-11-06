@@ -1,0 +1,21 @@
+{
+  "description": "Bar charts showing the importance of small business in the US: (a) Percentage of All U.S. Businesses by number of employees, and (b) Percentage of All U.S. Workers by number of employees",
+  "source_image": "page_159.jpg",
+  "crop_percentages": {
+    "top": 41.5,
+    "bottom": 75.0,
+    "left": 9.5,
+    "right": 90.5
+  },
+  "crop_pixels": {
+    "x1": 113,
+    "y1": 622,
+    "x2": 1085,
+    "y2": 1125
+  },
+  "crop_size": {
+    "width": 972,
+    "height": 503
+  },
+  "figure_id": "Fig_5.1"
+}

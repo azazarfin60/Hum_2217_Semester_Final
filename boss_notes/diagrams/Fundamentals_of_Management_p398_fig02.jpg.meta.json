@@ -1,0 +1,21 @@
+{
+  "description": "Five basic communication networks for five-person groups: Wheel, Y, Chain, Circle, and All-channel patterns showing central and decentralized information flows",
+  "source_image": "page_398.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 23.2,
+    "left": 8.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 95,
+    "y1": 150,
+    "x2": 1103,
+    "y2": 348
+  },
+  "crop_size": {
+    "width": 1008,
+    "height": 198
+  },
+  "figure_id": "Fig_Ch12.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The Reengineering Process: Develop goals and a strategy for reengineering effort; Emphasize top management's commitment to the reengineering effort; Create a sense of urgency among members of the organization; Start with a clean slate, in effect re-create the organization; Optimize top-down and bottom-up perspectives",
+  "source_image": "page_236.jpg",
+  "crop_percentages": {
+    "top": 9.3,
+    "bottom": 42.7,
+    "left": 42.5,
+    "right": 80.5
+  },
+  "crop_pixels": {
+    "x1": 509,
+    "y1": 139,
+    "x2": 965,
+    "y2": 640
+  },
+  "crop_size": {
+    "width": 456,
+    "height": 501
+  },
+  "figure_id": "Fig_7.3"
+}

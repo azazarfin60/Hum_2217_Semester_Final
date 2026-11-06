@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn inventory sawtooth diagram showing inventory depletion and replenishment cycles, EOQ (1000), average inventory EOQ/2, Reorder Point ROP (200), lead time, and safety stock versus time in months",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 70.0,
+    "bottom": 89.0,
+    "left": 49.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 1146,
+    "y1": 1157,
+    "x2": 2081,
+    "y2": 1471
+  },
+  "crop_size": {
+    "width": 935,
+    "height": 314
+  },
+  "figure_id": "Fig_Class09.2"
+}

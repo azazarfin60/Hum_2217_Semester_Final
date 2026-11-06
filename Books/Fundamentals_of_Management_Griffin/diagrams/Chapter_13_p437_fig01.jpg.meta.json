@@ -1,0 +1,21 @@
+{
+  "description": "The interaction between cohesiveness and performance norms: 2x2 matrix showing High/Low Cohesiveness vs High/Low Performance Norms resulting in High, Moderate, Low, and Lowest performance",
+  "source_image": "page_437.jpg",
+  "crop_percentages": {
+    "top": 68.0,
+    "bottom": 96.9,
+    "left": 46.5,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 557,
+    "y1": 1020,
+    "x2": 1103,
+    "y2": 1453
+  },
+  "crop_size": {
+    "width": 546,
+    "height": 433
+  },
+  "figure_id": "Fig_13.4"
+}

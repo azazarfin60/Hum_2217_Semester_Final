@@ -1,0 +1,21 @@
+{
+  "description": "The Leadership Grid (Managerial Grid) plotting Concern for Production (horizontal axis, 1-9) against Concern for People (vertical axis, 1-9), identifying five leadership styles: 1,1 Impoverished Management, 9,1 Authority-Compliance, 1,9 Country Club Management, 5,5 Middle-of-the-Road Management, and 9,9 Team Management",
+  "source_image": "page_363.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 59.2,
+    "left": 25.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 299,
+    "y1": 135,
+    "x2": 1055,
+    "y2": 888
+  },
+  "crop_size": {
+    "width": 756,
+    "height": 753
+  },
+  "figure_id": "Fig_11.1"
+}

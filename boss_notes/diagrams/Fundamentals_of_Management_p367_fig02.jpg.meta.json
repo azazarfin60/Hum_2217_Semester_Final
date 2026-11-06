@@ -1,0 +1,21 @@
+{
+  "description": "The Least-Preferred Coworker (LPC) Theory of Leadership framework showing situational favorableness based on Contingency Factors (Leader-member relations, Task structure, Position power) across situations from most favorable to most unfavorable, and indicating appropriate leader behavior (Task-oriented vs Relationship-oriented)",
+  "source_image": "page_367.jpg",
+  "crop_percentages": {
+    "top": 9.0,
+    "bottom": 31.4,
+    "left": 23.0,
+    "right": 88.0
+  },
+  "crop_pixels": {
+    "x1": 275,
+    "y1": 135,
+    "x2": 1055,
+    "y2": 471
+  },
+  "crop_size": {
+    "width": 780,
+    "height": 336
+  },
+  "figure_id": "Fig_11.2"
+}

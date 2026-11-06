@@ -1,0 +1,21 @@
+{
+  "description": "Force-Field Analysis for Plant Closing at General Motors showing Reasons for Closing (Outmoded production facilities, Excess capacity, Need to cut costs) driving towards Plant Closing, balanced against Reasons Against Closing (Resistance from unions, Concern about worker welfare, Possible future needs)",
+  "source_image": "page_230.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 25.2,
+    "left": 31.5,
+    "right": 91.5
+  },
+  "crop_pixels": {
+    "x1": 377,
+    "y1": 157,
+    "x2": 1097,
+    "y2": 378
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 221
+  },
+  "figure_id": "Fig_7.2"
+}

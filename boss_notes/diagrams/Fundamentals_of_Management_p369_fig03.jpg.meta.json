@@ -1,0 +1,21 @@
+{
+  "description": "The Path-Goal Framework showing how Subordinates' personal characteristics (perceived ability, locus of control) and Environmental characteristics (task structure, work group) interact with Leader behaviors (Directive, Supportive, Participative, Achievement-oriented) to influence Subordinates' motivation to perform",
+  "source_image": "page_369.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 29.7,
+    "left": 23.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 275,
+    "y1": 142,
+    "x2": 1043,
+    "y2": 445
+  },
+  "crop_size": {
+    "width": 768,
+    "height": 303
+  },
+  "figure_id": "Fig_11.3"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The Expanded Goal-Setting Theory of Motivation showing Goal difficulty, specificity, acceptance, and commitment leading to Goal-Directed Effort, Performance, and Intrinsic/Extrinsic Rewards leading to Satisfaction",
+  "source_image": "page_332.jpg",
+  "crop_percentages": {
+    "top": 59.67,
+    "bottom": 74.67,
+    "left": 30.02,
+    "right": 92.99
+  },
+  "crop_pixels": {
+    "x1": 359,
+    "y1": 895,
+    "x2": 1114,
+    "y2": 1120
+  },
+  "crop_size": {
+    "width": 755,
+    "height": 225
+  },
+  "figure_id": "Fig_10.6"
+}

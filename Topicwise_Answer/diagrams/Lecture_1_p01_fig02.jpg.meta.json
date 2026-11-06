@@ -1,0 +1,21 @@
+{
+  "description": "Four management functions cycle: Planning and Decision Making, Organizing, Leading, and Controlling with detailed interaction arrows and function descriptions",
+  "source_image": "page_001.jpg",
+  "crop_percentages": {
+    "top": 58.5,
+    "bottom": 82.2,
+    "left": 10.5,
+    "right": 59.0
+  },
+  "crop_pixels": {
+    "x1": 173,
+    "y1": 1368,
+    "x2": 975,
+    "y2": 1922
+  },
+  "crop_size": {
+    "width": 802,
+    "height": 554
+  },
+  "figure_id": "Fig_L1.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Figure 14.1: The Purpose of Control \u2014 Diagram showing how control helps the organization adapt to environmental change, limit accumulation of error, cope with organizational complexity, and minimize costs",
+  "source_image": "page_456.jpg",
+  "crop_percentages": {
+    "top": 63.0,
+    "bottom": 87.7,
+    "left": 29.0,
+    "right": 93.5
+  },
+  "crop_pixels": {
+    "x1": 347,
+    "y1": 945,
+    "x2": 1121,
+    "y2": 1315
+  },
+  "crop_size": {
+    "width": 774,
+    "height": 370
+  },
+  "figure_id": "Fig_14.1"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Kinds of Managers by Level and Area: A three-dimensional grid mapping levels of management (Top, Middle, First-line) against areas of management (Marketing, Finance, Operations, Human Resources, Administration, Other)",
+  "source_image": "page_034.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 53.0,
+    "left": 31.0,
+    "right": 91.0
+  },
+  "crop_pixels": {
+    "x1": 371,
+    "y1": 142,
+    "x2": 1091,
+    "y2": 795
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 653
+  },
+  "figure_id": "Fig_Ch01_01"
+}

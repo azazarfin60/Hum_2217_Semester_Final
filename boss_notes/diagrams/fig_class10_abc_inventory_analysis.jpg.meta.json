@@ -1,0 +1,21 @@
+{
+  "description": "ABC Analysis curve showing Percentage of dollar value vs Percentage of items: Class A (20% items, 80% value), Class B (30% items, 15% value), Class C (50% items, 5% value)",
+  "source_image": "page_002.jpg",
+  "crop_percentages": {
+    "top": 6.5,
+    "bottom": 30.8,
+    "left": 11.5,
+    "right": 81.5
+  },
+  "crop_pixels": {
+    "x1": 195,
+    "y1": 182,
+    "x2": 1385,
+    "y2": 862
+  },
+  "crop_size": {
+    "width": 1190,
+    "height": 680
+  },
+  "figure_id": "Fig_Inv.1"
+}

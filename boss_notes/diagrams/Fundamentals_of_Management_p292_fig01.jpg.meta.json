@@ -1,0 +1,21 @@
+{
+  "description": "The Psychological Contract diagram showing individual contributions (effort, ability, loyalty, skills, time, competencies) and organizational inducements (pay, job security, benefits, career opportunities, status, promotion opportunities)",
+  "source_image": "page_292.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 26.2,
+    "left": 37.0,
+    "right": 85.0
+  },
+  "crop_pixels": {
+    "x1": 443,
+    "y1": 157,
+    "x2": 1019,
+    "y2": 393
+  },
+  "crop_size": {
+    "width": 576,
+    "height": 236
+  },
+  "figure_id": "Fig_Ch9.1"
+}

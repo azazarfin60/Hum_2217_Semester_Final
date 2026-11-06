@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn stakeholder interaction diagram showing Manager at center with arrows from Competitor, Owner, Employee, Customer, Supplier, and Govt./Regulator",
+  "source_image": "page_001.jpg",
+  "crop_percentages": {
+    "top": 15.0,
+    "bottom": 47.4,
+    "left": 8.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 132,
+    "y1": 350,
+    "x2": 1438,
+    "y2": 1108
+  },
+  "crop_size": {
+    "width": 1306,
+    "height": 758
+  },
+  "figure_id": "Fig_Class01.1"
+}

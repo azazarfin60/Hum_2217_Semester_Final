@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn flowchart of Vroom's Expectancy Theory showing Effort -> Performance (evaluated via ACR) -> Reward (financial/non-financial) -> Personal Goal, moderated by Distributive Justice",
+  "source_image": "page_008.jpg",
+  "crop_percentages": {
+    "top": 38.0,
+    "bottom": 65.4,
+    "left": 50.0,
+    "right": 100
+  },
+  "crop_pixels": {
+    "x1": 1169,
+    "y1": 628,
+    "x2": 2339,
+    "y2": 1081
+  },
+  "crop_size": {
+    "width": 1170,
+    "height": 453
+  },
+  "figure_id": "Fig_Class08.2"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The Expectancy Model of Motivation showing how Motivation, Effort, Ability, and Environment lead to Performance, which leads to multiple Outcomes, each with an associated Valence",
+  "source_image": "page_329.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 34.67,
+    "left": 23.35,
+    "right": 87.57
+  },
+  "crop_pixels": {
+    "x1": 279,
+    "y1": 150,
+    "x2": 1049,
+    "y2": 520
+  },
+  "crop_size": {
+    "width": 770,
+    "height": 370
+  },
+  "figure_id": "Fig_10.4"
+}

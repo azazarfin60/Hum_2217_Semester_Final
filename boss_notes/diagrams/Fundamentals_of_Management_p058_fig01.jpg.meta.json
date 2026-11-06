@@ -1,0 +1,21 @@
+{
+  "description": "Johari Window: A four-quadrant matrix showing Quadrant 1 (The Open Self), Quadrant 2 (The Blind Self), Quadrant 3 (The Concealed Self), and Quadrant 4 (The Unknown Self) mapped by My Own Perceptions vs Other Persons' Perceptions",
+  "source_image": "page_058.jpg",
+  "crop_percentages": {
+    "top": 9.5,
+    "bottom": 53.0,
+    "left": 18.0,
+    "right": 87.0
+  },
+  "crop_pixels": {
+    "x1": 215,
+    "y1": 142,
+    "x2": 1043,
+    "y2": 795
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 653
+  },
+  "figure_id": "Fig_Ch01_JohariWindow"
+}

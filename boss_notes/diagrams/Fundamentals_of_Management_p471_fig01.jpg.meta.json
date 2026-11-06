@@ -1,0 +1,21 @@
+{
+  "description": "Figure 14.6: Organizational Control \u2014 Comparison matrix of Bureaucratic Control vs Decentralized Control across dimensions: Goal, Degree of formality, Performance expectations, Organization design, Reward system, and Participation",
+  "source_image": "page_471.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 48.2,
+    "left": 6.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 71,
+    "y1": 150,
+    "x2": 1067,
+    "y2": 723
+  },
+  "crop_size": {
+    "width": 996,
+    "height": 573
+  },
+  "figure_id": "Fig_14.6"
+}

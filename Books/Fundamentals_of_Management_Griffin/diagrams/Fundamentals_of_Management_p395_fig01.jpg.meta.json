@@ -1,0 +1,21 @@
+{
+  "description": "The communication process model showing sender, receiver, meaning, encoding, transmission through channels, decoding, and noise disruption across all eight sequential steps",
+  "source_image": "page_395.jpg",
+  "crop_percentages": {
+    "top": 47.5,
+    "bottom": 82.5,
+    "left": 26.0,
+    "right": 86.0
+  },
+  "crop_pixels": {
+    "x1": 311,
+    "y1": 712,
+    "x2": 1031,
+    "y2": 1237
+  },
+  "crop_size": {
+    "width": 720,
+    "height": 525
+  },
+  "figure_id": "Fig_Ch12.1"
+}

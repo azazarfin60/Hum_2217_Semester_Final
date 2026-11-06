@@ -1,0 +1,21 @@
+{
+  "description": "The Administrative Model of Decision Making sequential process: When faced with a decision situation managers actually use incomplete and imperfect information, are constrained by bounded rationality, tend to satisfice, and end up with a decision that may or may not serve the interests of the organization.",
+  "source_image": "page_141.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 22.0,
+    "left": 10.0,
+    "right": 83.0
+  },
+  "crop_pixels": {
+    "x1": 119,
+    "y1": 150,
+    "x2": 995,
+    "y2": 330
+  },
+  "crop_size": {
+    "width": 876,
+    "height": 180
+  },
+  "figure_id": "Fig_4.4"
+}

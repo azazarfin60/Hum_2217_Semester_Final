@@ -1,0 +1,21 @@
+{
+  "description": "The development of a role: sequence showing Expected role, Sent role, Perceived role, and Enacted role",
+  "source_image": "page_431.jpg",
+  "crop_percentages": {
+    "top": 71.0,
+    "bottom": 85.9,
+    "left": 23.0,
+    "right": 90.0
+  },
+  "crop_pixels": {
+    "x1": 275,
+    "y1": 1065,
+    "x2": 1079,
+    "y2": 1288
+  },
+  "crop_size": {
+    "width": 804,
+    "height": 223
+  },
+  "figure_id": "Fig_13.3"
+}

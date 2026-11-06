@@ -1,0 +1,21 @@
+{
+  "description": "Approaches to Facilities Layout showing Product Layout (assembly line with sequential workstations), Process Layout (custom jobs routing between specialized workstations), and Fixed-Position Layout (workstations moving around stationary product)",
+  "source_image": "page_492.jpg",
+  "crop_percentages": {
+    "top": 36.0,
+    "bottom": 85.4,
+    "left": 27.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 323,
+    "y1": 540,
+    "x2": 1151,
+    "y2": 1281
+  },
+  "crop_size": {
+    "width": 828,
+    "height": 741
+  },
+  "figure_id": "Fig_15.1"
+}

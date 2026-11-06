@@ -1,0 +1,21 @@
+{
+  "description": "The Systems Perspective of Organizations: Diagram showing Inputs from the environment (material, human, financial, information), Transformation process (technology, operating, administrative, control systems), Outputs into the environment (products/services, profits/losses, employee behaviors, information), and Feedback loop returning to inputs",
+  "source_image": "page_048.jpg",
+  "crop_percentages": {
+    "top": 67.5,
+    "bottom": 85.5,
+    "left": 23.5,
+    "right": 82.5
+  },
+  "crop_pixels": {
+    "x1": 281,
+    "y1": 1012,
+    "x2": 989,
+    "y2": 1282
+  },
+  "crop_size": {
+    "width": 708,
+    "height": 270
+  },
+  "figure_id": "Fig_Ch01_04"
+}

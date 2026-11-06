@@ -1,0 +1,21 @@
+{
+  "description": "Table 14.1: Developing Budgets in Organizations \u2014 Summary of Financial Budgets (cash flow, capital expenditures, balance sheet), Operating Budgets (sales/revenue, expense, profit), and Nonmonetary Budgets (labor, space)",
+  "source_image": "page_467.jpg",
+  "crop_percentages": {
+    "top": 10.5,
+    "bottom": 61.2,
+    "left": 24.0,
+    "right": 89.0
+  },
+  "crop_pixels": {
+    "x1": 287,
+    "y1": 157,
+    "x2": 1067,
+    "y2": 918
+  },
+  "crop_size": {
+    "width": 780,
+    "height": 761
+  },
+  "figure_id": "Table_14.1"
+}

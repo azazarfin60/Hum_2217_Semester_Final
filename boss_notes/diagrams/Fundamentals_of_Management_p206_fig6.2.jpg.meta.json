@@ -1,0 +1,21 @@
+{
+  "description": "Functional (U-Form) Design for a Small Manufacturing Company organization chart showing CEO overseeing Vice Presidents of Operations, Marketing, Finance, Human Resources, and R&D, with subordinate managers reporting to each",
+  "source_image": "page_206.jpg",
+  "crop_percentages": {
+    "top": 55.5,
+    "bottom": 85.7,
+    "left": 11.0,
+    "right": 93.0
+  },
+  "crop_pixels": {
+    "x1": 131,
+    "y1": 832,
+    "x2": 1115,
+    "y2": 1285
+  },
+  "crop_size": {
+    "width": 984,
+    "height": 453
+  },
+  "figure_id": "Fig_6.2"
+}
