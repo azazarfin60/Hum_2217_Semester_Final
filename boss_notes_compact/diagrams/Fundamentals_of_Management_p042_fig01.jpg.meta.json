@@ -1,0 +1,21 @@
+{
+  "description": "Steps in Scientific Management: Four sequential steps showing (1) Develop a science for each element of the job, (2) Scientifically select and train employees, (3) Supervise employees to ensure prescribed methods, (4) Continue to plan work but use workers to get work done",
+  "source_image": "page_042.jpg",
+  "crop_percentages": {
+    "top": 10.0,
+    "bottom": 21.5,
+    "left": 12.0,
+    "right": 92.0
+  },
+  "crop_pixels": {
+    "x1": 143,
+    "y1": 150,
+    "x2": 1103,
+    "y2": 322
+  },
+  "crop_size": {
+    "width": 960,
+    "height": 172
+  },
+  "figure_id": "Fig_Ch01_03"
+}

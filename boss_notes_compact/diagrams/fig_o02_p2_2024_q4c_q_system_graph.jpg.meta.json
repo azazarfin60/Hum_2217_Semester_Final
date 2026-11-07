@@ -1,0 +1,10 @@
+{
+  "description": "Continuous Review System sawtooth graph for 2024 Q.4(c): EOQ = 160 units, ROP = 148 units, Lead time L = 2 weeks, TBO = 2.5 weeks across 21 annual cycles (C-1 to C-21).",
+  "crop_bbox": [
+    0,
+    0,
+    2310,
+    1276
+  ],
+  "figure_id": "fig_o02_p2_2024_q4c_q_system_graph"
+}

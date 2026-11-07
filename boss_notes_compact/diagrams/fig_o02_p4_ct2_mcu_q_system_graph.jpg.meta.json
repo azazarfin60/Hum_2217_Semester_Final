@@ -1,0 +1,10 @@
+{
+  "description": "Continuous Review System sawtooth graph for ECE Microcontroller Warehouse (2025 OM-CT2): EOQ = 657 MCUs, ROP = 596 MCUs, Lead time L = 4 days, TBO = 5.48 days across 48 annual cycles (C-1 to C-48).",
+  "crop_bbox": [
+    0,
+    0,
+    2310,
+    1276
+  ],
+  "figure_id": "fig_o02_p4_ct2_mcu_q_system_graph"
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn management process model: cycle of Planning & decision making, Organising, Leading, and Controlling, with environmental inputs (Human resources, Financial, Physical, Information) and attained goals (Efficiently, Effectively)",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 13.0,
+    "bottom": 61.4,
+    "left": 2.0,
+    "right": 44.0
+  },
+  "crop_pixels": {
+    "x1": 46,
+    "y1": 214,
+    "x2": 1029,
+    "y2": 1014
+  },
+  "crop_size": {
+    "width": 983,
+    "height": 800
+  },
+  "figure_id": "Fig_Class02.1"
+}

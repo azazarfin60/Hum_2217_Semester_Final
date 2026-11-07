@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn Fayol's Scalar Chain hierarchy diagram showing Apex A, left chain (B-C-D), right chain (E-F-G), and cross-communication bridge",
+  "source_image": "page_007.jpg",
+  "crop_percentages": {
+    "top": 21.0,
+    "bottom": 46.6,
+    "left": 79.0,
+    "right": 96.0
+  },
+  "crop_pixels": {
+    "x1": 1847,
+    "y1": 347,
+    "x2": 2245,
+    "y2": 770
+  },
+  "crop_size": {
+    "width": 398,
+    "height": 423
+  },
+  "figure_id": "Fig_Class07.1"
+}
