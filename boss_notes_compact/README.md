@@ -15,60 +15,60 @@ tags:
 
 # HUM 2217: Compact Boss Notes (1-Day Exam Rescue)
 
-Welcome to the **Compact Boss Notes Suite** for **HUM 2217: Legal Issues, Industrial & Operational Management** (RUET, Department of ECE, 2-2 / 8th Semester).
+Welcome to the **Compact Boss Notes Suite** for **HUM 2217: Legal Issues, Industrial & Operational Management**. This suite is built for RUET ECE 2-2 students.
 
-This edition is engineered specifically for students facing an immediate exam deadline. When you have only 24 hours remaining before the exam, wading through dense textbooks and sprawling study notes is counterproductive. These compact notes eliminate every redundant word while preserving 100% of the scoring power and statutory precision.
-
----
-
-## 1. Why Compact Boss Notes Exist
-
-Standard exam preparation materials often suffer from repetitive paragraphs and passive filler text. These compact notes directly address that problem:
-
-- **75% Less Reading Volume:** Every fact, statutory section number, and management framework appears exactly once in the entire suite.
-- **Ultra-Fast Read Times:** Each subtopic file is tightly structured to be read and mastered in 3 to 5 minutes.
-- **100% Exam Coverage:** Completely solves every question across four semester finals (2020 to 2024) and all 2025 Class Tests.
-- **Guaranteed Exam Locks:** Incorporates Shoaib Islam Sir's voice-note suggestions and Dr. Md. Rabiul Islam Sir's Class 11 board problems.
-- **Zero Academic Fluff:** Sentences remain concise, active, and direct (under 20 words where possible), completely eliminating artificial padding.
+We built these notes for students who have only 24 hours left before the exam. At this stage, reading long textbooks or huge lecture slides takes too much time. These notes cut out the fluff. They give you plain, direct explanations while keeping 100% of the scoring rules, section numbers, and exam formulas.
 
 ---
 
-## 2. Standard 4-Zone File Architecture
+## 1. Why These Compact Notes Exist
 
-Every subtopic note in this directory follows a strict four-zone layout designed for rapid revision and instant recall:
+Most study guides repeat the same ideas over and over. They use long, confusing sentences that give you a headache. These compact notes fix that:
+
+- **75% Less Reading:** We explain every fact, law section, and management theory only once.
+- **Super Fast Reads:** Each subtopic takes only 3 to 5 minutes to read and understand.
+- **100% Exam Coverage:** Covers every question from the last four final exams (2020 to 2024) and all 2025 Class Tests.
+- **High-Yield Exam Locks:** Focuses on Shoaib Sir's voice-note suggestions and Dr. Md. Rabiul Islam Sir's Class 11 board problems.
+- **Short, Everyday Words:** Sentences are short (under 20 words) and easy to read on the first try.
+
+---
+
+## 2. Standard 4-Part Note Layout
+
+Every note in this folder uses the same 4-part structure. This helps you review fast and remember key points:
 
 1. **⚡ Exam Snapshot:**
-   - Highlights exam priority tier, estimated reading time, past exam marks, and core scoring takeaways.
-   - Provides an immediate summary of what examiners look for on the script.
+   - Shows the exam priority, reading time, past marks, and key takeaways.
+   - Tells you what the examiner wants to see on your paper.
 
 2. **📌 1. Verbatim Definitions (For 2-Mark Questions):**
-   - Quotes the exact statutory section from the Contract Act 1872 or BLC 2006, or verbatim textbook definition.
-   - Follows each quote with a plain-meaning sentence explaining the core concept in clear, everyday English.
+   - Gives the exact legal quote from the Contract Act 1872 or BLC 2006, or the official textbook definition.
+   - Includes a *Plain meaning* explanation right below the quote in simple everyday words.
 
-3. **⚡ 2. Core Exam Blocks (Write Directly in Exam):**
-   - Compiles comparisons and distinctions into clean, single-view Markdown tables.
-   - Presents legal rules, procedural timelines, and managerial functions as structured numbered points.
-   - Embeds visual memory hooks, worker count ladders, and verified diagrams.
+3. **⚡ 2. Core Exam Blocks (Write Directly in the Exam):**
+   - Puts comparisons into clean, quick-read tables.
+   - Breaks legal rules, timelines, and management functions into simple numbered points.
+   - Includes memory tricks, worker count ladders, and clear diagrams.
 
-4. **🎯 3. PYQ & Applied Answer Key:**
-   - Direct theory questions provide a focused blueprint detailing the exact definition, core points, and conclusion to write.
-   - Applied legal case studies follow Shoaib Sir's 4-step structure: 1. Facts, 2. Applicable Law & Section, 3. Legal Analysis, and 4. Direct Conclusion.
-   - Inventory calculations follow Dr. Md. Rabiul Islam Sir's strict 6-step board layout with full numerical steps.
+4. **🎯 3. Past Question Answer Plans:**
+   - Theory answers give you an easy-to-follow plan: definition, key points, and conclusion.
+   - Legal case studies use Shoaib Sir's 4-step structure: 1. Facts, 2. Law & Section, 3. Analysis, and 4. Conclusion.
+   - Inventory math questions use Dr. Md. Rabiul Islam Sir's 6-step board layout with full calculations.
 
 ---
 
 ## 3. High-Yield Exam Locks Quick-Jump
 
-Jump directly to the highest-yielding topics on the final examination:
+Jump directly to the highest-scoring topics on the final examination:
 
-- 📦 **[Continuous Review ($Q$) System: O02.2a](O02.2a_Q_System_Method_and_Weekly_Demand_Problems.md) & [O02.2b](O02.2b_Q_System_Daily_Demand_and_MCU_Problems.md):** 10-mark board calculation lock covering weekly and daily demand conversions, inventory position checks, and complete sawtooth curves.
-- ⚙️ **[Productivity Formulas & Math: O03.1](O03.1_Productivity_Formulas_SFP_MFP_and_Numericals.md):** High-yield numerical lock covering Single-Factor and Multifactor Productivity, month-over-month percentage changes, and operational diagnostics.
-- ⚖️ **[Doctrine of Frustration (`Sec 56`): L04.2](L04.2_Doctrine_of_Frustration_and_Case_Studies.md):** Shoaib Sir's confirmed 10-mark legal case study applying the 4-step framework to supervening impossibility versus commercial hardship.
-- 👶 **[Maternity Benefits (`Sec 45–50`): L06.1](L06.1_Maternity_Benefits_Sec_45_to_50.md):** High-probability statutory question covering 16 weeks of paid leave, qualification rules, notice procedures, and daily wage calculations.
-- 🧯 **[Workplace Fire Safety (`Sec 62`): L07.1](L07.1_Fire_Safety_Precautions_Sec_62.md):** Statutory requirements for fire escape stairways, outward-opening doors, red Bangla signs, and mock drill intervals (original 2006 text annually versus 2013 amendment every 6 months).
-- 🏢 **[Welfare Facilities Ladder (`Sec 89–94`): L08.1](L08.1_Welfare_Measures_Sec_89_to_99.md):** Worker population thresholds for first-aid boxes, dispensaries, canteens, rest shelters, and children's crèches.
-- 🤝 **[Dispute Settlement Ladder (`Sec 210`): L11.2](L11.2_Industrial_Disputes_and_Settlement_Ladder_Sec_210.md):** Step-by-step dispute resolution through bipartite negotiations, conciliation, and optional arbitration.
-- 📐 **[Master Formula & Statutory Sheet (File 99)](99_Master_Formula_and_Statutory_Sheet.md):** Rapid 30-minute memory refresher containing all verified section numbers, formulas, and mnemonic hooks.
+- 📦 **[Continuous Review ($Q$) System: O02.2a](O02.2a_Q_System_Method_and_Weekly_Demand_Problems.md) & [O02.2b](O02.2b_Q_System_Daily_Demand_and_MCU_Problems.md):** Guaranteed 10-mark board math problem. Covers weekly and daily demand conversions, inventory position checks, and complete sawtooth graphs.
+- ⚙️ **[Productivity Formulas & Math: O03.1](O03.1_Productivity_Formulas_SFP_MFP_and_Numericals.md):** High-yield math problem. Covers Single-Factor and Multifactor Productivity, percentage changes, and fixes for falling output.
+- ⚖️ **[Doctrine of Frustration (`Sec 56`): L04.2](L04.2_Doctrine_of_Frustration_and_Case_Studies.md):** Shoaib Sir's confirmed 10-mark case study. Uses the 4-step case format to distinguish real impossibility from simple commercial hardship.
+- 👶 **[Maternity Benefits (`Sec 45–50`): L06.1](L06.1_Maternity_Benefits_Sec_45_to_50.md):** High-probability law question. Covers 16 weeks of paid leave, qualification rules, notice procedures, and daily wage calculations.
+- 🧯 **[Workplace Fire Safety (`Sec 62`): L07.1](L07.1_Fire_Safety_Precautions_Sec_62.md):** Fire safety rules for escape stairs, outward doors, red Bangla signs, and mock fire drills.
+- 🏢 **[Welfare Facilities Ladder (`Sec 89–94`): L08.1](L08.1_Welfare_Measures_Sec_89_to_99.md):** Worker thresholds for first-aid boxes, clinics, canteens, lunch rooms, and children's crèches.
+- 🤝 **[Dispute Settlement Ladder (`Sec 210`): L11.2](L11.2_Industrial_Disputes_and_Settlement_Ladder_Sec_210.md):** 3-stage dispute resolution through direct two-sided talks, conciliation, and optional arbitration.
+- 📐 **[Master Formula & Statutory Sheet (File 99)](99_Master_Formula_and_Statutory_Sheet.md):** Rapid 30-minute memory sheet. Contains all verified law sections, inventory formulas, and memory acronyms.
 
 ---
 
@@ -112,11 +112,11 @@ flowchart TD
 
 ## 5. How to Study in Under 10 Hours
 
-1. Open [`00_Index.md`](00_Index.md) and review the 1-Day Hour-by-Hour Exam Rescue Plan to understand topic priorities.
-2. Complete **Block 1** immediately to secure approximately 25 marks from Continuous Review ($Q$) System calculations and the Doctrine of Frustration case study.
-3. Work through **Block 2** to master approximately 20 marks on Shoaib Islam Sir's pinpointed legal sections and BLC compliance rules.
-4. Study **Block 3** to lock in approximately 15 marks on Dr. Md. Rabiul Islam Sir's management theories, classical principles, and appraisal errors.
-5. Use **Block 4** for a rapid 60-minute skim of secondary notes, and memorize [`99_Master_Formula_and_Statutory_Sheet.md`](99_Master_Formula_and_Statutory_Sheet.md) 30 minutes before entering the exam hall.
+1. Open [`00_Index.md`](00_Index.md) and review the 1-Day Hour-by-Hour Exam Rescue Plan.
+2. Complete **Block 1** right away to secure about 25 marks. This covers Continuous Review ($Q$) System calculations and the Doctrine of Frustration case study.
+3. Work through **Block 2** to secure about 20 marks. This covers Shoaib Sir's key legal sections and BLC workplace rules.
+4. Study **Block 3** to lock in about 15 marks. Learn Dr. Md. Rabiul Islam Sir's management theories, classical principles, and appraisal errors.
+5. Use **Block 4** for a quick 60-minute skim of extra notes. Then memorize [`99_Master_Formula_and_Statutory_Sheet.md`](99_Master_Formula_and_Statutory_Sheet.md) 30 minutes before entering the exam hall.
 
 ---
 

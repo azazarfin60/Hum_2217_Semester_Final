@@ -25,18 +25,18 @@ tags:
 
 ### 1. The Contract Act 1872 Master Statutory Directory
 
-Shoaib Sir evaluates legal scripts strictly. A wrong section number loses marks immediately. Cite exact sections:
+Shoaib Sir evaluates legal scripts strictly. Any wrong section number loses marks immediately. Cite exact section numbers:
 
 | Section(s) | Statutory Concept | Core Rule & Statutory Standard in Plain Words | Exam Focus / Case / Rule |
 | :--- | :--- | :--- | :--- |
-| `Sec 2(a)–(b)` | Offer & Acceptance | Willingness to do/abstain (`2a`); absolute, unqualified assent (`2b, 7`) creates binding promise. | Proposal must be communicated (`Sec 4`). |
-| `Sec 2(c)–(d)` | Parties & Consideration | Promisor/promisee (`2c`). Consideration (`2d`): act/abstinence at desire of promisor; real, lawful. | Price of promise; need not be adequate. |
+| `Sec 2(a)–(b)` | Offer & Acceptance | Willingness to do or not do something (`2a`). Absolute, unqualified acceptance (`2b, 7`) creates a binding promise. | Proposal must be communicated (`Sec 4`). |
+| `Sec 2(c)–(d)` | Parties & Consideration | Promisor and promisee (`2c`). Consideration (`2d`): act or abstinence at promisor's desire; must be real and lawful. | Price of promise; need not be adequate. |
 | `Sec 2(e)–(i)` | Agreement & Contract Types | Agreement (`2e` = offer + acceptance); Contract (`2h` = `2e` + `Sec 10`); Void (`2g`); Voidable (`2i`). | All contracts are agreements; converse not true. |
-| `Sec 4–5` | Communication & Revocation | Offer complete when known; acceptance complete against proposer when posted. Revoke before line closes. | Dual postal rule (2025 Law-CT1 Q.2). |
-| `Sec 8–9` | Conduct & Implied Promises | Acceptance by performing conditions (*Carlill*, `8`); express (words) vs implied (conduct, `9`). | Boarding a bus implies agreement to pay fare. |
+| `Sec 4–5` | Communication & Revocation | Offer complete when known. Acceptance complete against proposer when posted. Revoke before line closes. | Dual postal rule (2025 Law-CT1 Q.2). |
+| `Sec 8–9` | Conduct & Implied Promises | Acceptance by performing conditions (*Carlill*, `8`). Express (words) vs implied (conduct, `9`). | Boarding a bus implies agreement to pay fare. |
 | `Sec 10–12` | Validity & Capacity | 5 pillars (`10`). Competent: age 18+, sound mind (`12`). Minor contract void *ab initio* (*Mohori Bibee*, `11`). | Free consent, lawful object/consideration. |
 | `Sec 13–14` | Consent (*Consensus ad idem*) | Agreeing on same thing in same sense (`13`). Free when not caused by `Sec 15–20` factors (`14`). | Vitiating factor makes contract voidable/void. |
-| `Sec 15–18` | Vitiating Factors | Coercion (`15`, duress), Undue Influence (`16`, dominant will), Fraud (`17`, deceit), Misrepresentation (`18`). | All make contract voidable at victim option. |
+| `Sec 15–18` | Vitiating Factors | Coercion (`15`, duress), Undue Influence (`16`, dominant will), Fraud (`17`, deceit), Misrepresentation (`18`). | All make contract voidable at victim's option. |
 | `Sec 20` | Bilateral Mistake of Fact | Both parties mistaken on essential matter of fact; agreement is void *ab initio*. | Common error on subject matter. |
 | `Sec 23–24` | Lawful Object & Value | Unlawful if forbidden by law, defeats law, fraudulent, injurious, or immoral. | Unlawful agreement is void. |
 | `Sec 25(1)–(3)` | Consideration Exceptions | Valid without consideration: Registered love & affection deed (`25(1)`), past service (`25(2)`), time-barred debt (`25(3)`). | 3 core statutory exceptions to *Ex nudo pacto*. |
@@ -70,10 +70,10 @@ Shoaib Sir evaluates legal scripts strictly. A wrong section number loses marks 
 
 Use this 4-step layout for all 10-mark legal scenario questions:
 
-1. **Facts of the Case:** State the operational dispute in 1 to 2 crisp lines (parties, agreement, broken act).
-2. **Applicable Law & Section:** Cite exact statute and sections (e.g., Contract Act Sec 56 and Sec 65).
-3. **Legal Analysis:** Apply statutory test directly (test `D-D-L-N-W` vs `C-D-S-F-P`; check restitution rule).
-4. **Direct Conclusion:** State final unambiguous verdict (e.g., "Contract frustrated; A must refund Tk 50,000").
+1. **Facts of the Case:** State the dispute in 1 to 2 crisp lines (parties, agreement, and what went wrong).
+2. **Applicable Law & Section:** Cite the exact statute and sections (for example, Contract Act Sec 56 and Sec 65).
+3. **Legal Analysis:** Apply the legal test directly (test `D-D-L-N-W` vs `C-D-S-F-P`, and check the refund rule).
+4. **Direct Conclusion:** Give a clear, direct verdict (for example, "Contract frustrated; A must refund Tk 50,000").
 
 > [!tip] Memory Hook: Frustration (D-D-L-N-W) vs. Excuses (C-D-S-F-P)
 > - **5 Valid Frustrations (`D-D-L-N-W`):** **D**estruction of subject matter, **D**eath/incapacity in personal service, **L**egislative change, **N**on-occurrence of precondition, **W**ar outbreak. Contract void under `Sec 56`; benefits refunded under `Sec 65`.
@@ -146,7 +146,7 @@ Use this 4-step layout for all 10-mark legal scenario questions:
   1. *Bipartite:* Written notice -> meeting in **15 days** -> negotiation for **30 days**.
   2. *Conciliation:* Notice to Conciliator within **15 days** -> starts in **10 days** -> conciliation for **30 days** -> Failure Certificate within **3 days**.
   3. *Arbitration:* Joint referral within **15 days** -> award within **30 days** (valid up to **2 years**).
-  4. *Strike Notice (`Sec 211`):* Within **15 days** of Failure Certificate, CBA holds secret ballot (**two-thirds [$2/3$] approval** under 2013 Amendment; $>50\%$ in 2018) and serves **7 to 14 days notice**.
+  4. *Strike Notice (`Sec 211`):* Within **15 days** of Failure Certificate, CBA holds a secret ballot (**two-thirds [$2/3$] approval** under 2013 Amendment; $>50\%$ in 2018). Then it serves **7 to 14 days notice**.
 
 ---
 
@@ -167,13 +167,13 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 
 ### 2. Efficiency vs. Effectiveness (2x2 Decision Matrix)
 
-- **Efficiency:** Doing things right. Minimizes resource waste ($\text{Output} \div \text{Input}$).
-- **Effectiveness:** Doing the right things. Chooses and achieves appropriate strategic organizational goals.
+- **Efficiency:** Doing things right. It minimizes resource waste ($\text{Output} \div \text{Input}$).
+- **Effectiveness:** Doing the right things. It chooses and achieves appropriate organizational goals.
 
 | Dimension | Low Effectiveness (Wrong Goals) | High Effectiveness (Right Goals) |
 | :--- | :--- | :--- |
-| **High Efficiency** (Low Waste) | **Efficient but Not Effective (Q1):** Low cost, fast production, but wrong product fails in market. | **Both Efficient & Effective (Q3):** Optimal state. Right goals achieved with minimum resource waste. |
-| **Low Efficiency** (High Waste) | **Neither Efficient nor Effective (Q4):** High waste, poor delivery, wrong product. Rapid liquidation. | **Effective but Not Efficient (Q2):** Right product, but heavy waste and high costs erode margins. |
+| **High Efficiency** (Low Waste) | **Efficient but Not Effective (Q1):** Low cost and fast production, but the wrong product fails in the market. | **Both Efficient & Effective (Q3):** The ideal state. Right goals achieved with minimum resource waste. |
+| **Low Efficiency** (High Waste) | **Neither Efficient nor Effective (Q4):** High waste, poor delivery, and the wrong product. Leads to rapid liquidation. | **Effective but Not Efficient (Q2):** Right product, but heavy waste and high costs destroy profit margins. |
 
 ---
 
@@ -191,13 +191,13 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 
 | Letter | Fayol's Principle | Core Operational Rule in Plain Words |
 | :---: | :--- | :--- |
-| **D** | Division of Work | Specialization increases worker dexterity and total output. |
+| **D** | Division of Work | Specialization increases worker skill and total output. |
 | **A** | Authority & Responsibility | Authority to give orders must balance with accountability for outcomes. |
-| **D** | Discipline | Obedience, proper conduct, and respect for organizational rules. |
+| **D** | Discipline | Obedience, good conduct, and respect for organizational rules. |
 | **U** | Unity of Command | An employee receives orders from **one and only one supervisor**. |
 | **C** | Centralization | Balance between centralized authority and subordinate delegation. |
-| **U** | Unity of Direction | One head and one plan for all activities having same objective. |
-| **S** | Subordination of Individual Interest | Organizational goals prevail over private individual interests. |
+| **U** | Unity of Direction | One head and one plan for all activities having the same objective. |
+| **S** | Subordination of Individual Interest | Organizational goals always prevail over private individual interests. |
 | **S** | Scalar Chain | Line of authority from top to bottom. Includes the **Gangplank** bypass. |
 | **R** | Remuneration of Personnel | Fair, equitable compensation rewarding worker effort. |
 | **O** | Order | A place for everything, and everything in its place. |
@@ -207,13 +207,13 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 | **E** | Esprit de Corps | Promoting team spirit, harmony, and mutual trust across the organization. |
 
 > [!tip] Gangplank Rule
-> The **Gangplank** is an authorized bridge across the scalar chain. It allows two employees at the same hierarchical level in different departments to communicate directly with prior approval from their superiors, preventing operational delays.
+> The **Gangplank** is an authorized bridge across the scalar chain. It lets two peers in different departments communicate directly with their bosses' approval. This prevents operational delays.
 
 ---
 
 ### 5. Taylor's 4 Principles of Scientific Management
 
-1. **Develop a Science for Each Job Element:** Replace rule-of-thumb guesswork with systematic time-and-motion studies.
+1. **Develop a Science for Each Job Element:** Replace rule-of-thumb guesswork with step-by-step time-and-motion studies.
 2. **Scientifically Select, Train, and Develop Workers:** Match employee capabilities to jobs and train them methodically.
 3. **Hearty Cooperation with Workers:** Work closely with employees to ensure tasks conform to scientific principles.
 4. **Equal Division of Work and Responsibility:** Managers plan and design work; workers execute operations efficiently.
@@ -222,12 +222,12 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 
 ### 6. Core Managerial Decision, Organization, and Control Frameworks
 
-- **6 Rational Decision Steps (`R-I-E-S-I-F`):** **R**ecognize/define problem -> **I**dentify alternatives -> **E**valuate options -> **S**elect best alternative -> **I**mplement chosen path -> **F**ollow up and evaluate.
+- **6 Rational Decision Steps (`R-I-E-S-I-F`):** **R**ecognize/define problem -> **I**dentify options -> **E**valuate options -> **S**elect best option -> **I**mplement -> **F**ollow up.
 - **4 Departmentalization Bases (`F-P-C-L`):** **F**unction (expertise), **P**roduct (product lines), **C**ustomer (client types), **L**ocation/Geography (regional territory).
 - **Span of Control:**
   - *Narrow Span (Tall Structure):* Few subordinates per manager. Close control, but many layers, slow communication, high cost.
   - *Wide Span (Flat Structure):* Many subordinates per manager. Low cost, fast communication, but risks supervisor overload.
-- **4 Control Steps (`S-M-C-C`):** Establish **S**tandards -> **M**easure performance -> **C**ompare against standards -> **C**onsider corrective action.
+- **4 Control Steps (`S-M-C-C`):** Set **S**tandards -> **M**easure performance -> **C**ompare against standards -> **C**onsider corrective action.
 
 ---
 
@@ -243,9 +243,15 @@ $$
 \text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)
 $$
 
-  If any single variable is zero ($E=0, I=0, \text{ or } V=0$), total motivation drops to zero (the multiplicative rule).
+  - If any single variable is zero ($E=0, I=0, \text{ or } V=0$), total motivation drops to zero (the multiplicative rule).
 
-- **6 Appraisal Errors (`H-L-S-C-R-C`):** **H**alo/Horn (one trait biases all), **L**eniency (consistently too generous), **S**trictness (consistently too harsh), **C**entral Tendency (clumping in middle), **R**ecency (overweighting last month), **C**ontrast (comparing against preceding person).
+- **6 Appraisal Errors (`H-L-S-C-R-C`):**
+  - **H:** **H**alo/Horn (one trait biases every score)
+  - **L:** **L**eniency (too generous to everyone)
+  - **S:** **S**trictness (too harsh on everyone)
+  - **C:** **C**entral Tendency (clumping everyone in the middle)
+  - **R:** **R**ecency (grading mostly on the last month)
+  - **C:** **C**ontrast (comparing against the previous worker)
 
 ---
 
@@ -260,7 +266,7 @@ $$
   - *Class A:* ~20% of items, ~80% of total annual dollar volume (tight daily control, low safety stock).
   - *Class B:* ~30% of items, ~15% of dollar volume (moderate control, standard EOQ).
   - *Class C:* ~50% of items, ~5% of dollar volume (loose control, large batch orders).
-- **6 EOQ Assumptions (`C-C-I-N-N-O`):** **C**onstant demand, **C**onstant lead time, **I**nstantaneous receipt, **N**o stockouts allowed, **N**o quantity discounts, **O**nly ordering ($S$) and holding ($H$) costs exist.
+- **6 EOQ Assumptions (`C-C-I-N-N-O`):** **C**onstant demand, **C**onstant lead time, **I**nstant delivery, **N**o stockouts, **N**o bulk discounts, **O**nly ordering ($S$) and holding ($H$) costs.
 
 ---
 
@@ -359,7 +365,7 @@ $$
 ### 3. Cycle Service Level $z$-Value Reference Table
 
 | Cycle Service Level | 85% | 88% | 90% | 92% | 95% (Standard) | 95% (Exam Given 2023) | 97% | 98% | 99% |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **$z$-value** | 1.04 | **1.175** | 1.28 | **1.41** | **1.645** | **1.43** | 1.88 | **2.05** | **2.33** |
 
 *(Rule: If exam paper gives a specific $z$-value like $1.43$, use it. Otherwise use standard normal $1.645$).*
@@ -457,39 +463,119 @@ Review this checklist in the final 10 minutes before entering the exam hall:
 ### 1. Shoaib Sir Statutory Checklist (CO1: Legal Issues)
 
 - **Contract Definition:** `Sec 2(h)` = Agreement (`Sec 2(e)`) + Legal Enforceability (`Sec 10`).
-- **7 Consideration Exceptions (`Sec 25`):** Registered love & affection (`25(1)`), voluntary past service (`25(2)`), time-barred debt (`25(3)`), completed gift (`25 Expl. 1`), guarantee (`Sec 127`), agency (`Sec 185`), and remission (`Sec 63`).
-- **Doctrine of Frustration (`Sec 56`):** Valid frustration (`D-D-L-N-W`) discharges contract; benefits restored under `Sec 65`. Excuses (`C-D-S-F-P`) leave contract alive; party is liable for breach damages under `Sec 73`.
-- **Discharge by Mutual Agreement:** Novation, rescission, alteration (`Sec 62`); remission and waiver (`Sec 63`).
-- **Adolescent Working Hours (`Sec 41`):** Factory/mine: max 5 hours/day, 30 hours/week (36 with OT). Other establishments: max 7 hours/day, 42 hours/week (48 with OT). Night work prohibited between 7:00 PM and 7:00 AM. Spread-over $\le 7.5$ hours.
-- **Maternity Benefits (`Sec 45–50`):** 16 weeks total paid leave (8 weeks pre-natal + 8 weeks post-natal). Requires at least 6 months continuous service. Barred from cash benefit if the woman has 2 or more surviving children (unpaid leave only). Payout made within 3 working days of notice/proof.
-- **Fire Safety Precautions (`Sec 62`):** Alternative staircases, outward-opening/sliding doors, exit signs in red Bangla letters, audible alarms, free passageways. Mock fire drill for factories with $\ge 50$ workers (cite 2006 text: once a year; 2013 Amendment: once every 6 months with 18% trained staff).
-- **Statutory Worker Thresholds:** $\ge 5$ (Factory `Sec 2(7)`), $> 10$ (Fire escape training `Sec 62(7)`), $> 25$ (Safety record book and board `Sec 90`), $\ge 40$ women (Crèche `Sec 94`: height $\ge 360\text{ cm}$, floor area $\ge 6000\text{ sq. cm}$ per child), $> 50$ (Lunch and rest rooms `Sec 93`), $\ge 50$ (Mock fire drills `Sec 62(8)`, safety committee `Sec 90A`), $> 100$ (Canteen `Sec 92`), $\ge 100$ permanent (Compulsory group insurance `Sec 99`), $150$ (First-aid box per 150 workers `Sec 89(2)`), $\ge 300$ (Dispensary and sick room `Sec 89(5)`), $\ge 500$ (Certified Welfare Officer `Sec 89(8)`), $\ge 5000$ (Health Centre `Sec 89(6)`).
-- **Termination Compensation:** Retrenchment (`Sec 20`): 1 month notice, 30 days wages per year of service, LIFO rule. Incapacity discharge (`Sec 22`): 30 days wages per year of service. Termination by notice (`Sec 26`): 120 days notice (monthly) or 60 days (others) plus 30 days wages per year. Resignation (`Sec 27`): 60 days notice (monthly) or 30 days (others); compensation of 14 days wages per year of service for 5 to 10 years, and 30 days wages per year for $\ge 10$ years; all dues settled within 30 working days under `Sec 30`. Misconduct dismissal (`Sec 23–24`): zero compensation, requires 5-step domestic inquiry.
-- **Trade Union & CBA:** Union registration requires minimum 30% membership (`Sec 179(2)`). Registrar decides within 60 days (`Sec 182`). Body corporate status (`Sec 194`). CBA determined by sole union ($\ge 1/3$ workers) or secret ballot for 2-year tenure (`Sec 202`). Dispute ladder: Bipartite (15d/30d) -> Conciliation (10d/30d/3d) -> Arbitration (15d/30d) -> Labour Court (`Sec 210`). Strike notice: $2/3$ secret ballot (2013 Amendment), 7 to 14 days notice (`Sec 211`). Unfair labour practice penalties (`Sec 291`): up to 2 years imprisonment or Tk 10,000 fine for employer; up to 1 year imprisonment or Tk 5,000 fine for worker.
+- **7 Consideration Exceptions (`Sec 25`):**
+  - Registered love and affection deed (`Sec 25(1)`).
+  - Voluntary past service (`Sec 25(2)`).
+  - Promise to pay time-barred debt (`Sec 25(3)`).
+  - Completed gift (`Sec 25 Expl. 1`).
+  - Guarantee contract (`Sec 127`).
+  - Agency creation (`Sec 185`).
+  - Remission of debt (`Sec 63`).
+- **Doctrine of Frustration (`Sec 56`):**
+  - Valid frustration (`D-D-L-N-W`) discharges the contract. Any party who received a benefit must refund it under `Sec 65`.
+  - Non-qualifying excuses (`C-D-S-F-P`) leave the contract alive. The failing party is liable for breach damages under `Sec 73`.
+- **Discharge by Mutual Agreement:**
+  - Novation, rescission, and alteration (`Sec 62`).
+  - Remission and waiver (`Sec 63`).
+- **Adolescent Working Hours (`Sec 41`):**
+  - Factory and mine: Max 5 hours per day and 30 hours per week (up to 36 hours with overtime).
+  - Other establishments: Max 7 hours per day and 42 hours per week (up to 48 hours with overtime).
+  - Night work: Strictly barred between 7:00 PM and 7:00 AM.
+  - Spread-over: Maximum 7.5 hours per day across at most 2 shifts.
+- **Maternity Benefits (`Sec 45–50`):**
+  - Total leave: 16 weeks paid leave (8 weeks pre-natal + 8 weeks post-natal).
+  - Eligibility: Requires at least 6 months continuous service before delivery (`Sec 46(1)`).
+  - Two-child cap: Cash benefit is barred if the woman has 2 or more surviving children. She gets unpaid leave only (`Sec 46(2)`).
+  - Payment timeline: Cash paid within 3 working days of medical notice or birth proof (`Sec 47`).
+  - Dismissal protection: Employer cannot fire a woman worker 6 months before or 8 weeks after delivery without sufficient cause (`Sec 50`).
+- **Fire Safety Precautions (`Sec 62`):**
+  - Building exits: At least one alternative connecting staircase per floor (`Sec 62(1)`).
+  - Exit doors: Must open outwards or slide freely; never locked while workers are inside (`Sec 62(3)`).
+  - Exit markings: Fire exits marked clearly in red Bangla letters (`Sec 62(4)`).
+  - Emergency alarms: Loud, audible whistle or siren across the whole factory (`Sec 62(5)`).
+  - Clear aisles: Passageways must stay unobstructed at all times (`Sec 62(6)`).
+  - Escape training: Mandatory where more than 10 workers work above ground floor (`Sec 62(7)`).
+  - Mock fire drills: Mandatory for factories with $\ge 50$ workers (`Sec 62(8)`). Cite both standards: once a year (2006 original text) and once every 6 months with 18% trained staff (2013 Amendment).
+- **Statutory Worker Thresholds Ladder:**
+  - $\ge 5$ Workers (`Sec 2(7)`): Classifies the facility as a Factory (excludes mines).
+  - $> 10$ Workers (`Sec 62(7)`): Fire escape training required for workers above ground floor.
+  - $> 25$ Workers (`Sec 90`): Mandatory safety record book and display board. Also requires a separate rest room if $> 25$ female workers (`Sec 93(3)`).
+  - $\ge 40$ Female Workers (`Sec 94`): Mandatory crèche / day-care room (height $\ge 360\text{ cm}$, floor area $\ge 6000\text{ sq. cm}$ per child).
+  - $> 50$ Workers (`Sec 93`): Mandatory lunch and rest rooms with free drinking water.
+  - $\ge 50$ Workers (`Sec 62(8)`, `Sec 90A`): Mandatory mock fire drills and joint safety committee.
+  - $> 100$ Workers (`Sec 92`): Mandatory canteen run by a managing committee with worker reps.
+  - $\ge 100$ Permanent Workers (`Sec 99`): Compulsory group insurance (2013 Amendment; $\ge 200$ in original 2006 text).
+  - $150$ Workers (`Sec 89(2)`): At least one first-aid box per 150 workers under a trained, badged attendant.
+  - $\ge 300$ Workers (`Sec 89(5)`): Mandatory dispensary and sick room staffed by a medical practitioner and nurse.
+  - $\ge 500$ Workers (`Sec 89(8)`): Mandatory certified Welfare Officer.
+  - $\ge 5000$ Workers (`Sec 89(6)`): Mandatory permanent Health Centre.
+- **Termination Compensation Rules:**
+  - Retrenchment (`Sec 20`): Redundancy downsizing. Requires 1 month written notice (or pay in lieu). Pay 30 days wages per year of service under strict LIFO order.
+  - Incapacity Discharge (`Sec 22`): Medical unfitness certified by a registered doctor. Compensation of 30 days wages per year of service.
+  - Simple Termination by Notice (`Sec 26`): 120 days notice for monthly workers (or 60 days for others) plus 30 days wages per year of service.
+  - Worker Resignation (`Sec 27`): Worker gives 60 days notice (monthly) or 30 days (others). Pay 14 days wages per year for 5 to 10 years of service. Pay 30 days wages per year for $\ge 10$ years. All dues must be paid within 30 working days under `Sec 30`.
+  - Misconduct Dismissal (`Sec 23–24`): Zero compensation. Must follow the mandatory 5-step domestic inquiry (charge-sheet, 7-day reply, inquiry committee, second show-cause, final dismissal order).
+- **Trade Union, CBA & Industrial Disputes:**
+  - Union Registration (`Sec 176–179`): Requires a minimum of 30% worker membership (`Sec 179(2)`). Registrar must decide within 60 days (`Sec 182`). Registered union becomes a body corporate (`Sec 194`).
+  - CBA Determination (`Sec 202`): Sole registered union with $\ge 1/3$ workforce membership, or winner of secret ballot. Tenure is 2 years. CBA holds 5 exclusive statutory powers under `Sec 202(24)`.
+  - Dispute Settlement Ladder (`Sec 210`):
+    1. *Bipartite:* Notice sent -> meeting within 15 days -> talks last up to 30 days.
+    2. *Conciliation:* Notice to Conciliator within 15 days -> conciliation begins within 10 days -> lasts up to 30 days -> Failure Certificate issued within 3 days.
+    3. *Arbitration:* Joint referral within 15 days -> Arbitrator's award within 30 days (binding up to 2 years).
+  - Strike Notice (`Sec 211`): CBA can issue strike notice within 15 days of Failure Certificate. Requires a secret ballot with $2/3$ member approval (2013 Amendment). Strike notice period is 7 to 14 days.
+  - Unfair Labour Practice Penalties (`Sec 291`): Employers face up to 2 years imprisonment or a Tk 10,000 fine. Workers face up to 1 year imprisonment or a Tk 5,000 fine.
 
 ### 2. MRI Sir Management Mnemonics (CO2: Industrial Management)
 
-- **Management Foundations:** F.W. Taylor (1911) *"best and cheapest way"* + Ricky W. Griffin: 4 resources (`H-F-P-I`: Human, Financial, Physical, Information), 4 functions (`P-O-L-C`: Planning, Organizing, Leading, Controlling).
-- **Efficiency vs. Effectiveness:** Efficiency = doing things right ($\text{Output} \div \text{Input}$); Effectiveness = doing the right things (achieving organizational goals).
-- **Managerial Skills & Levels:** 7 skills (`T-I-C-D-C-D-T`: Technical, Interpersonal, Conceptual, Diagnostic, Communication, Decision-Making, Time-Management). Top managers need Conceptual/Diagnostic; first-line supervisors need Technical/Interpersonal.
-- **Henri Fayol's 14 Principles:** Mnemonic `DAD U C USSR? O I SEE!` (Division of work, Authority, Discipline, Unity of command, Centralization, Unity of direction, Subordination of individual interest, Scalar chain with Gangplank bridge, Remuneration, Order, Initiative, Stability of tenure, Equity, Esprit de corps).
-- **Rational Decision-Making:** 6 steps (`R-I-E-S-I-F`: Recognize problem, Identify alternatives, Evaluate options, Select best alternative, Implement choice, Follow up).
-- **Organizational Structure & Control:** 4 departmentalization bases (`F-P-C-L`: Function, Product, Customer, Location). 4 control steps (`S-M-C-C`: Standards, Measure, Compare, Correct).
-- **Motivation Models:** Maslow hierarchy (`P-S-S-E-S`: Physiological, Safety, Social, Esteem, Self-Actualization). Herzberg Two-Factor: Hygiene factors prevent dissatisfaction; Motivators create satisfaction. Vroom Expectancy: $\text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)$.
-- **Performance Appraisal Errors:** 6 errors (`H-L-S-C-R-C`: Halo/Horn, Leniency, Strictness, Central tendency, Recency, Contrast).
+- **Management Foundations:**
+  - F.W. Taylor (1911): Management is the art of knowing what to do and doing it in the *"best and cheapest way"*.
+  - Ricky W. Griffin: Managing 4 resources (`H-F-P-I`: Human, Financial, Physical, Information) through 4 functions (`P-O-L-C`: Planning, Organizing, Leading, Controlling).
+- **Efficiency vs. Effectiveness:**
+  - Efficiency means doing things right ($\text{Output} \div \text{Input}$). It minimizes resource waste.
+  - Effectiveness means doing the right things. It achieves the right organizational goals.
+- **Managerial Skills & Levels:**
+  - 7 skills (`T-I-C-D-C-D-T`: Technical, Interpersonal, Conceptual, Diagnostic, Communication, Decision-Making, Time-Management).
+  - Top managers rely most on Conceptual and Diagnostic skills.
+  - Middle managers need a balanced mix of Interpersonal and Diagnostic skills.
+  - First-line supervisors focus heavily on Technical and Interpersonal skills.
+- **Henri Fayol's 14 Principles (`DAD U C USSR? O I SEE!`):**
+  - Division of work, Authority, Discipline.
+  - Unity of command, Centralization, Unity of direction.
+  - Subordination of individual interest, Scalar chain (with Gangplank bridge), Remuneration.
+  - Order, Initiative, Stability of tenure, Equity, Esprit de corps.
+- **Rational Decision-Making:**
+  - 6 steps (`R-I-E-S-I-F`: Recognize problem, Identify alternatives, Evaluate options, Select best alternative, Implement choice, Follow up).
+- **Organizational Structure & Control:**
+  - 4 departmentalization bases (`F-P-C-L`: Function, Product, Customer, Location).
+  - 4 control steps (`S-M-C-C`: Standards, Measure, Compare, Correct).
+- **Motivation Models:**
+  - Maslow hierarchy (`P-S-S-E-S`: Physiological, Safety, Social, Esteem, Self-Actualization). Lower needs must be met first.
+  - Herzberg Two-Factor: Hygiene factors prevent dissatisfaction; Motivators create true job satisfaction and high effort.
+  - Vroom Expectancy: $\text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)$. If any factor is zero, total motivation is zero.
+- **Performance Appraisal Errors:**
+  - 6 errors (`H-L-S-C-R-C`: Halo/Horn, Leniency, Strictness, Central tendency, Recency, Contrast).
 
 ### 3. MRI Sir Operations Formulas (CO3: Operational Management)
 
-- **Annual Demand Conversion:** Convert demand to annual units before any calculation: $D = \bar{d} \times 260\text{ days}$ or $D = d_w \times 52\text{ weeks}$.
-- **Economic Order Quantity:** $EOQ = \sqrt{\frac{2DS}{H}}$.
-- **Lead Time Demand Standard Deviation:** $\sigma_L = \sigma_d \sqrt{L}$ or $\sigma_L = \sigma_w \sqrt{L}$ (ensure demand rate standard deviation $\sigma$ and lead time $L$ share the same time units: both in days or both in weeks).
+- **Annual Demand Conversion:** Convert demand to annual units before starting any calculation: $D = \bar{d} \times 260\text{ days}$ or $D = d_w \times 52\text{ weeks}$.
+- **Economic Order Quantity:**
+
+$$
+EOQ = \sqrt{\frac{2DS}{H}}
+$$
+
+- **Lead Time Demand Standard Deviation:** $\sigma_L = \sigma_d \sqrt{L}$ or $\sigma_L = \sigma_w \sqrt{L}$ (demand standard deviation $\sigma$ and lead time $L$ must use the same time unit).
 - **Reorder Point (ROP):** State in MRI Sir's 4-line chain:
 
 $$
-ROP = \text{Average demand during lead time } (dl) + \text{Safety stock } (z\sigma_L) = dl + z\sigma_L
+\text{Reorder Point } (ROP) = \text{Average demand during lead time } (dl) + \text{Safety stock } (z\sigma_L)
 $$
 
-- **Inventory Position & Decision Rule:** $IP = OH + SR - BO$. Boxed rule:
+$$
+ROP = dl + z\sigma_L
+$$
+
+- **Inventory Position & Ordering Rule:** Calculate $IP = OH + SR - BO$, then apply the boxed rule:
 
 $$
 \boxed{IP \le ROP} \implies \text{Place a new order of size } Q = EOQ
@@ -505,8 +591,14 @@ $$
 C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + H z \sigma_L
 $$
 
-- **Order Count and Cycle Timing:** Orders per year $N = \frac{D}{EOQ}$; Time Between Orders $TBO = \frac{EOQ}{D} \times \text{time basis} = \frac{\text{operating days or weeks}}{N}$ (quote verbatim definition: *"The average length of time that elapses between two consecutive inventory orders"*).
-- **Productivity Ratios:** Single-Factor $SFP = \frac{\text{Output}}{\text{Single Input}}$; Multifactor $MFP = \frac{\text{Total Output Value}}{\sum \text{Input Costs}}$. Period-over-period change: $\% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%$.
+- **Order Frequency and Cycle Timing:**
+  - Orders per year: $N = \frac{D}{EOQ}$.
+  - Time Between Orders: $TBO = \frac{EOQ}{D} \times \text{time basis} = \frac{\text{operating days or weeks}}{N}$.
+  - Verbatim definition: *"The average length of time that elapses between two consecutive inventory orders."*
+- **Productivity Ratios:**
+  - Single-Factor: $SFP = \frac{\text{Output}}{\text{Single Input}}$.
+  - Multifactor: $MFP = \frac{\text{Total Output Value}}{\sum \text{Input Costs}}$.
+  - Period-over-period percentage change: $\% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%$.
 
 ---
 
