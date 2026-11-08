@@ -16,7 +16,7 @@ tags:
 
 > [!info] ⚡ Exam Snapshot
 > - **Scope & Purpose:** All-in-one 30-Minute Pre-Exam Reference across CO1 (Law), CO2 (Management), and CO3 (Operations).
-> - **Exam Architecture:** 60 Marks · 3 Hours · Section A (30 marks Law, answer 3 of 4) | Section B (30 marks IM & OM, answer 3 of 4).
+> - **Exam Architecture:** 60 Marks · 3 Hours · Section A (30 marks Law, answer 3 of 4) and Section B (30 marks IM & OM, answer 3 of 4).
 > - **Scoring Rule:** Exact statutory section citations + 4-Step legal case format + 6-Step continuous review board format secure 55+/60.
 
 ---
@@ -69,14 +69,15 @@ Shoaib Sir evaluates legal scripts strictly. A wrong section number loses marks 
 ### 3. The 4-Step Legal Case Study Format (Mandatory for Section A)
 
 Use this 4-step layout for all 10-mark legal scenario questions:
-1. **Facts of the Case:** State the operational dispute in 1-2 crisp lines (parties, agreement, broken act).
+
+1. **Facts of the Case:** State the operational dispute in 1 to 2 crisp lines (parties, agreement, broken act).
 2. **Applicable Law & Section:** Cite exact statute and sections (e.g., Contract Act Sec 56 and Sec 65).
 3. **Legal Analysis:** Apply statutory test directly (test `D-D-L-N-W` vs `C-D-S-F-P`; check restitution rule).
 4. **Direct Conclusion:** State final unambiguous verdict (e.g., "Contract frustrated; A must refund Tk 50,000").
 
 > [!tip] Memory Hook: Frustration (D-D-L-N-W) vs. Excuses (C-D-S-F-P)
-> - **5 Valid Frustrations (`D-D-L-N-W`):** **D**estruction of subject matter, **D**eath/incapacity in personal service, **L**egislative change, **N**on-occurrence of precondition, **W**ar outbreak. -> Contract void under `Sec 56`; benefits refunded under `Sec 65`.
-> - **5 Non-Frustrating Excuses (`C-D-S-F-P`):** **C**ommercial hardship, **D**efault of supplier, **S**trikes/lockouts, **F**ailure of one object, **P**ersonal self-induced fault. -> Contract alive; party liable for breach under `Sec 73`.
+> - **5 Valid Frustrations (`D-D-L-N-W`):** **D**estruction of subject matter, **D**eath/incapacity in personal service, **L**egislative change, **N**on-occurrence of precondition, **W**ar outbreak. Contract void under `Sec 56`; benefits refunded under `Sec 65`.
+> - **5 Non-Frustrating Excuses (`C-D-S-F-P`):** **C**ommercial hardship, **D**efault of supplier, **S**trikes/lockouts, **F**ailure of one object, **P**ersonal self-induced fault. Contract alive; party liable for breach under `Sec 73`.
 
 ---
 
@@ -103,7 +104,7 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 | `Sec 90–91` | Safety Record & Washing | Safety record book for $>25$ (`90`), committee for $\ge 50$ (`90A`); clean screened separate washrooms (`91`). | Welfare & hygiene standards. |
 | `Sec 92–93` | Canteens & Shelters | Canteen for $>100$ workers (`92`); rest and lunch rooms with free drinking water for $>50$ workers (`93`). | Dining and shelter rules. |
 | `Sec 94` | Crèches / Day-Care | $\ge 40$ female workers; children $<6$; room height $\ge 360\text{ cm}$, area $\ge 6000\text{ sq. cm}$ per child. | Trained woman caregiver in charge. |
-| `Sec 99` | Group Insurance | Mandatory group life and disability insurance for $\ge 100$ permanent workers (2013; $\ge 200$ in 2006). | Worker compensation safety net. |
+| `Sec 99` | Group Insurance | Mandatory group life and disability insurance for $\ge 100$ permanent workers (2013; $\ge 200$ in 2006 text). | Worker compensation safety net. |
 | `Sec 100–108` | Adult Hours & Overtime | Normal: 8h/day, 48h/wk (max 10h/day, 60h/wk with OT). Overtime pay = $2 \times$ basic wage rate (`Sec 108`). | Strict double basic rate for OT. |
 | `Sec 176–179` | Trade Union Registration | Right to form union (`176`); registration requires min 30% membership of total workforce (`179(2)`). | Strict 30% membership threshold. |
 | `Sec 182, 190` | Registration & Cancel | Registrar decides in 60 days (`182`); 7 cancellation grounds require Labour Court order (`190`). | 60 days registration window. |
@@ -237,10 +238,13 @@ Use this 4-step layout for all 10-mark legal scenario questions:
   - *Hygiene Factors (Extrinsic):* Base salary, company policy, supervisor relations, physical conditions. Presence avoids dissatisfaction; cannot create motivation.
   - *Motivators (Intrinsic):* Achievement, recognition, challenging work, responsibility, advancement. Presence creates true motivation and high performance.
 - **Vroom's Expectancy Theory ($M = E \times I \times V$):**
-  $$
-  \text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)
-  $$
-  - *Multiplicative Rule:* If any single variable is zero ($E=0, I=0, V=0$), total motivation drops to zero.
+
+$$
+\text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)
+$$
+
+  If any single variable is zero ($E=0, I=0, \text{ or } V=0$), total motivation drops to zero (the multiplicative rule).
+
 - **6 Appraisal Errors (`H-L-S-C-R-C`):** **H**alo/Horn (one trait biases all), **L**eniency (consistently too generous), **S**trictness (consistently too harsh), **C**entral Tendency (clumping in middle), **R**ecency (overweighting last month), **C**ontrast (comparing against preceding person).
 
 ---
@@ -263,42 +267,51 @@ Use this 4-step layout for all 10-mark legal scenario questions:
 ### 2. Continuous Review ($Q$) System Complete Equation Set
 
 #### A. Annual Demand Conversion ($D$)
-For daily operating basis:
+
+For a daily operating basis:
+
 $$
 D = \bar{d} \times \text{Operating Days per Year} \quad (\text{usually } 260\text{ days})
 $$
 
-For weekly operating basis:
+For a weekly operating basis:
+
 $$
 D = d_w \times 52\text{ weeks per year}
 $$
 
 #### B. Economic Order Quantity ($EOQ$)
+
 $$
 EOQ = \sqrt{\frac{2DS}{H}}
 $$
 
 #### C. Standard Deviation of Demand During Lead Time ($\sigma_L$)
+
 $$
 \sigma_L = \sigma_d \sqrt{L} \quad \text{or} \quad \sigma_L = \sigma_w \sqrt{L}
 $$
 
-*(Note: $\sigma$ and $L$ must share identical time units: both in days, or both in weeks).*
+*(Note: Demand rate standard deviation $\sigma$ and lead time $L$ must share identical time units: both in days, or both in weeks).*
 
 #### D. Safety Stock ($SS$)
+
 $$
 SS = z \sigma_L = z \sigma_d \sqrt{L}
 $$
 
 #### E. Reorder Point ($ROP$) Mandatory 4-Line Chain
+
 $$
 \text{Reorder Point } (ROP) = \text{Average Demand During Lead Time } (dl) + \text{Safety Stock } (z\sigma_L)
 $$
+
 $$
 ROP = dl + z\sigma_L
 $$
 
 #### F. Inventory Position ($IP$) and Boxed Decision Rule
+
 $$
 IP = OH + SR - BO
 $$
@@ -306,28 +319,35 @@ $$
 $$
 \boxed{IP \le ROP} \implies \text{Place a new order of size } Q = EOQ
 $$
+
 $$
 \boxed{IP > ROP} \implies \text{Do not place a new order}
 $$
 
 #### G. Annual Policy Cost Function
+
 Cycle inventory total cost:
+
 $$
 TC(Q) = \frac{D}{Q}S + \frac{Q}{2}H
 $$
 
 MRI Sir's full annual policy cost formula including safety stock:
+
 $$
 C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + H z \sigma_L
 $$
 
 #### H. Order Frequency ($N$) and Time Between Orders ($TBO$)
+
 Number of orders per year:
+
 $$
 N = \frac{D}{EOQ}
 $$
 
 Time Between Orders ($TBO$):
+
 $$
 TBO = \frac{EOQ}{D} \times \text{Operating Time Basis} = \frac{\text{Operating Days or Weeks per Year}}{N}
 $$
@@ -364,7 +384,7 @@ $$
 | **Reorder Point ($ROP$)** | **$1,401\text{ units}$** | **$148\text{ units}$** | **$373\text{ units}$** | **$596\text{ units}$** | **$1,002\text{ units}$** |
 | **Warehouse Status** | $OH=400, SR=10614, BO=200$ | Policy change $Q=200 \to 160$ | $OH=40, SR=440, BO=0$ | $OH=80, SR=500, BO=0$ | $OH=40, SR=440, BO=0$ |
 | **Calculated $IP$** | $IP = 10,814\text{ units}$ | Not applicable | $IP = 480\text{ units}$ | $IP = 580\text{ units}$ | $IP = 480\text{ units}$ |
-| **Order Decision?** | **No ($10814 > 1401$)** | Saves $\$468/\text{yr}$ vs $Q=200$ | **No ($480 > 373$)** | **Yes ($580 \le 596$), order 657** | **Yes ($480 \le 1002$), order 894** |
+| **Order Decision?** | **No ($10,814 > 1,401$)** | Saves $\$468/\text{yr}$ vs $Q=200$ | **No ($480 > 373$)** | **Yes ($580 \le 596$), order 657** | **Yes ($480 \le 1,002$), order 894** |
 | **Total Cost ($C$)** | $\text{Tk } 321,468$ | $\$2,340$ | $\$4,825$ | $\$5,020.72$ | $\$2,255$ |
 | **Orders/Year ($N$)** | $3.18 \approx 4\text{ orders/yr}$ | $20.80 \approx 21\text{ orders/yr}$ | $59.09 \approx 60\text{ orders/yr}$ | $47.49 \approx 48\text{ orders/yr}$ | $22.37 \approx 23\text{ orders/yr}$ |
 | **Cycle Time ($TBO$)** | $15.6\text{ w}$ ($16.33\text{ w}$) | $2.50\text{ weeks}$ | $4.40\text{ days}$ | $5.48\text{ days}$ | $2.33\text{ weeks}$ |
@@ -373,26 +393,60 @@ $$
 
 ### 5. Productivity Formulas and Diagnostics
 
-- **Single-Factor Productivity (SFP):**
-  $$
-  SFP_{\text{labor}} = \frac{\text{Total Output Units}}{\text{Labor Hours Worked}}
-  $$
-- **Multifactor Productivity (MFP):**
-  $$
-  MFP = \frac{\text{Total Output Value}}{\sum \text{Input Costs}} = \frac{\text{Output Units} \times \text{Selling Price}}{\text{Labor Cost} + \text{Material Cost} + \text{Overhead Cost}}
-  $$
-- **Period-over-Period Percentage Change:**
-  $$
-  \% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%
-  $$
-- **Class 11 Partial Factor Ratios:**
-  $$
-  \text{Labour Ratio} = \frac{\text{Revenue}}{\text{Labor Cost}}, \quad \text{Material Ratio} = \frac{\text{Output Units}}{\text{Material Cost}}, \quad \text{Machine Ratio} = \frac{\text{Output Units}}{\text{Machine Cost}}
-  $$
-- **7 Causes of Productivity Decline (`I-O-P-S-I-E-M`):** Inefficiencies in process, Outdated technology, People & human factors, Scarcity of resources, Inaccurate measurement/data, External disruptions, Mistakes & quality trade-offs.
-- **2 Recovery Pillars:**
-  - *Pillar 1 (Human Factors):* Visual SOPs, ergonomic benches (elbow height), defect-linked incentives ($<3\%$), quality circles.
-  - *Pillar 2 (Industry 4.0):* Semi-automation, IIoT sensors on motors, AI predictive maintenance, automated vision QC (AOI).
+#### A. Single-Factor Productivity (SFP)
+
+Measures physical or monetary output relative to a single input resource (most commonly labor hours):
+
+$$
+SFP_{\text{labor}} = \frac{\text{Total Output Units}}{\text{Labor Hours Worked}}
+$$
+
+#### B. Multifactor Productivity (MFP)
+
+Measures total output value relative to the sum of all input resources converted to common monetary currency:
+
+$$
+MFP = \frac{\text{Total Output Value}}{\sum \text{Input Costs}} = \frac{\text{Output Units} \times \text{Selling Price}}{\text{Labor Cost} + \text{Material Cost} + \text{Overhead Cost}}
+$$
+
+#### C. Period-over-Period Percentage Change
+
+Calculates the percentage increase or decrease between two operational periods (always preserve the sign):
+
+$$
+\% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%
+$$
+
+#### D. Class 11 Partial Factor Ratios
+
+Monetary or physical ratios comparing total output directly against individual resource costs:
+
+$$
+\text{Labour Ratio} = \frac{\text{Output Revenue}}{\text{Labor Cost}}
+$$
+
+$$
+\text{Material Ratio} = \frac{\text{Output Units}}{\text{Material Cost}} \quad \text{or} \quad \frac{\text{Output Value}}{\text{Material Cost}}
+$$
+
+$$
+\text{Machine Ratio} = \frac{\text{Output Units}}{\text{Machine Cost}} \quad \text{or} \quad \frac{\text{Output Value}}{\text{Machine Cost}}
+$$
+
+#### E. The 7 Causes of Productivity Decline (I-O-P-S-I-E-M)
+
+- **I : Inefficiencies in Process:** Bottlenecks, poor floor layouts, unbalanced production lines.
+- **O : Outdated Technology:** Legacy machinery, frequent breakdowns, lack of digital connectivity.
+- **P : People & Human Factors:** Fatigue from overtime, high absenteeism, low morale, skill gaps.
+- **S : Scarcity of Resources:** Shortages of skilled workers or raw materials, energy price hikes.
+- **I : Inaccurate Measurement & Data:** Absence of real-time line sensors, misleading paper logs.
+- **E : External Disruptions:** Late supplier deliveries, grid blackouts, falling market demand.
+- **M : Mistakes & Quality Trade-Offs:** Pushing speed creates defects, rework, and excessive scrap.
+
+#### F. Dual Recovery Pillars
+
+- **Pillar 1 (Managing Human Factors):** Visual SOPs, ergonomic workbenches set to elbow height (95 to 105 cm), defect-linked incentives (defect rate $< 3\%$), and participative quality circles.
+- **Pillar 2 (Technological Modernization & Industry 4.0):** Semi-automatic folder-gluers/tapers, IIoT sensors on motors, AI predictive maintenance, and Automated Optical Inspection (AOI) cameras.
 
 ---
 
@@ -400,33 +454,59 @@ $$
 
 Review this checklist in the final 10 minutes before entering the exam hall:
 
-1. **Shoaib Sir Section Checklist (CO1):**
-   - Contract definition: `Sec 2(h) = Agreement (2e) + Enforceability (Sec 10)`.
-   - 7 Consideration exceptions: `Sec 25(1)` (Love & affection), `Sec 25(2)` (Past voluntary service), `Sec 25(3)` (Time-barred debt), `Sec 25 Expl. 1` (Completed gift), `Sec 127` (Guarantee), `Sec 185` (Agency), `Sec 63` (Remission).
-   - Frustration doctrine: `Sec 56` (`D-D-L-N-W` discharges contract + `Sec 65` restitution; `C-D-S-F-P` is breach under `Sec 73`).
-   - Mutual discharge: `Sec 62` (Novation, Rescission, Alteration) and `Sec 63` (Remission, Waiver).
-   - Adolescent hours: `Sec 41` (5h/day, 30h/wk in factory; night barred 7 PM to 7 AM; spread $\le 7.5$h).
-   - Maternity benefits: `Sec 45-50` (16 weeks leave, 8+8, $\ge 6$ mo service, barred if $\ge 2$ living children).
-   - Fire safety: `Sec 62` (Stairs, red Bangla exit signs, alarms, mock drills for $\ge 50$ workers: cite 2006 once/yr and 2013 every 6 mo).
-   - Welfare numbers: $25$ (Safety committee), $40$ (Crèche: height $\ge 360\text{ cm}$, area $\ge 6000\text{ sq. cm}$), $50$ (Rest rooms), $100$ (Canteen, Insurance), $150$ (First-aid box), $300$ (Dispensary).
-   - Termination compensation: Retrenchment `Sec 20` (30 days/yr, LIFO), Discharge `Sec 22` (30 days/yr), Notice `Sec 26` (120d notice + 30 days/yr), Dismissal `Sec 23-24` (zero pay, 5-step inquiry).
-   - Trade Union: `Sec 179(2)` (30% members), `Sec 182` (60 days), `Sec 194` (Body corporate). CBA: `Sec 202` (2-yr tenure, 5 exclusive powers), `Sec 210` (Dispute ladder), `Sec 211` (Strike notice).
-2. **MRI Sir Management Mnemonics (CO2):**
-   - Management: Taylor (1911) *"best and cheapest way"* + Griffin 4 resources (`H-F-P-I`), 4 functions (`P-O-L-C`).
-   - Fayol 14 Principles: `DAD U C USSR? O I SEE!` (Gangplank scalar chain bypass).
-   - Decision-Making: `R-I-E-S-I-F` (6 steps).
-   - Control Steps: `S-M-C-C` (Standards, Measure, Compare, Correct).
-   - Motivation: Maslow (`P-S-S-E-S`), Herzberg (Hygiene vs Motivator), Vroom ($M = E \times I \times V$).
-   - Appraisal Errors: `H-L-S-C-R-C` (Halo, Leniency, Strictness, Central tendency, Recency, Contrast).
-3. **MRI Sir Operations Math (CO3):**
-   - Convert demand to annual: $D = d \times 260$ or $D = d_w \times 52$.
-   - $EOQ = \sqrt{\frac{2DS}{H}}$.
-   - $\sigma_L = \sigma \sqrt{L}$ (Match time units: both in days, or both in weeks).
-   - $ROP = dl + z\sigma_L$ (4-line format).
-   - $IP = OH + SR - BO$. If $IP \le ROP \implies \text{Order } Q = EOQ$.
-   - Full annual cost: $C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + H z \sigma_L$.
-   - Orders/year: $N = D/Q$; Cycle time: $TBO = (Q/D) \times \text{time}$ (Verbatim definition).
-   - Productivity: $SFP = \text{Output} \div \text{Labor Hours}$ and $MFP = \text{Output Value} \div \sum \text{Input Costs}$. Period change: $\% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%$.
+### 1. Shoaib Sir Statutory Checklist (CO1: Legal Issues)
+
+- **Contract Definition:** `Sec 2(h)` = Agreement (`Sec 2(e)`) + Legal Enforceability (`Sec 10`).
+- **7 Consideration Exceptions (`Sec 25`):** Registered love & affection (`25(1)`), voluntary past service (`25(2)`), time-barred debt (`25(3)`), completed gift (`25 Expl. 1`), guarantee (`Sec 127`), agency (`Sec 185`), and remission (`Sec 63`).
+- **Doctrine of Frustration (`Sec 56`):** Valid frustration (`D-D-L-N-W`) discharges contract; benefits restored under `Sec 65`. Excuses (`C-D-S-F-P`) leave contract alive; party is liable for breach damages under `Sec 73`.
+- **Discharge by Mutual Agreement:** Novation, rescission, alteration (`Sec 62`); remission and waiver (`Sec 63`).
+- **Adolescent Working Hours (`Sec 41`):** Factory/mine: max 5 hours/day, 30 hours/week (36 with OT). Other establishments: max 7 hours/day, 42 hours/week (48 with OT). Night work prohibited between 7:00 PM and 7:00 AM. Spread-over $\le 7.5$ hours.
+- **Maternity Benefits (`Sec 45–50`):** 16 weeks total paid leave (8 weeks pre-natal + 8 weeks post-natal). Requires at least 6 months continuous service. Barred from cash benefit if the woman has 2 or more surviving children (unpaid leave only). Payout made within 3 working days of notice/proof.
+- **Fire Safety Precautions (`Sec 62`):** Alternative staircases, outward-opening/sliding doors, exit signs in red Bangla letters, audible alarms, free passageways. Mock fire drill for factories with $\ge 50$ workers (cite 2006 text: once a year; 2013 Amendment: once every 6 months with 18% trained staff).
+- **Statutory Worker Thresholds:** $\ge 5$ (Factory `Sec 2(7)`), $> 10$ (Fire escape training `Sec 62(7)`), $> 25$ (Safety record book and board `Sec 90`), $\ge 40$ women (Crèche `Sec 94`: height $\ge 360\text{ cm}$, floor area $\ge 6000\text{ sq. cm}$ per child), $> 50$ (Lunch and rest rooms `Sec 93`), $\ge 50$ (Mock fire drills `Sec 62(8)`, safety committee `Sec 90A`), $> 100$ (Canteen `Sec 92`), $\ge 100$ permanent (Compulsory group insurance `Sec 99`), $150$ (First-aid box per 150 workers `Sec 89(2)`), $\ge 300$ (Dispensary and sick room `Sec 89(5)`), $\ge 500$ (Certified Welfare Officer `Sec 89(8)`), $\ge 5000$ (Health Centre `Sec 89(6)`).
+- **Termination Compensation:** Retrenchment (`Sec 20`): 1 month notice, 30 days wages per year of service, LIFO rule. Incapacity discharge (`Sec 22`): 30 days wages per year of service. Termination by notice (`Sec 26`): 120 days notice (monthly) or 60 days (others) plus 30 days wages per year. Resignation (`Sec 27`): 60 days notice (monthly) or 30 days (others); compensation of 14 days wages per year of service for 5 to 10 years, and 30 days wages per year for $\ge 10$ years; all dues settled within 30 working days under `Sec 30`. Misconduct dismissal (`Sec 23–24`): zero compensation, requires 5-step domestic inquiry.
+- **Trade Union & CBA:** Union registration requires minimum 30% membership (`Sec 179(2)`). Registrar decides within 60 days (`Sec 182`). Body corporate status (`Sec 194`). CBA determined by sole union ($\ge 1/3$ workers) or secret ballot for 2-year tenure (`Sec 202`). Dispute ladder: Bipartite (15d/30d) -> Conciliation (10d/30d/3d) -> Arbitration (15d/30d) -> Labour Court (`Sec 210`). Strike notice: $2/3$ secret ballot (2013 Amendment), 7 to 14 days notice (`Sec 211`). Unfair labour practice penalties (`Sec 291`): up to 2 years imprisonment or Tk 10,000 fine for employer; up to 1 year imprisonment or Tk 5,000 fine for worker.
+
+### 2. MRI Sir Management Mnemonics (CO2: Industrial Management)
+
+- **Management Foundations:** F.W. Taylor (1911) *"best and cheapest way"* + Ricky W. Griffin: 4 resources (`H-F-P-I`: Human, Financial, Physical, Information), 4 functions (`P-O-L-C`: Planning, Organizing, Leading, Controlling).
+- **Efficiency vs. Effectiveness:** Efficiency = doing things right ($\text{Output} \div \text{Input}$); Effectiveness = doing the right things (achieving organizational goals).
+- **Managerial Skills & Levels:** 7 skills (`T-I-C-D-C-D-T`: Technical, Interpersonal, Conceptual, Diagnostic, Communication, Decision-Making, Time-Management). Top managers need Conceptual/Diagnostic; first-line supervisors need Technical/Interpersonal.
+- **Henri Fayol's 14 Principles:** Mnemonic `DAD U C USSR? O I SEE!` (Division of work, Authority, Discipline, Unity of command, Centralization, Unity of direction, Subordination of individual interest, Scalar chain with Gangplank bridge, Remuneration, Order, Initiative, Stability of tenure, Equity, Esprit de corps).
+- **Rational Decision-Making:** 6 steps (`R-I-E-S-I-F`: Recognize problem, Identify alternatives, Evaluate options, Select best alternative, Implement choice, Follow up).
+- **Organizational Structure & Control:** 4 departmentalization bases (`F-P-C-L`: Function, Product, Customer, Location). 4 control steps (`S-M-C-C`: Standards, Measure, Compare, Correct).
+- **Motivation Models:** Maslow hierarchy (`P-S-S-E-S`: Physiological, Safety, Social, Esteem, Self-Actualization). Herzberg Two-Factor: Hygiene factors prevent dissatisfaction; Motivators create satisfaction. Vroom Expectancy: $\text{Motivation} = \text{Expectancy } (E \to P) \times \text{Instrumentality } (P \to R) \times \text{Valence } (V)$.
+- **Performance Appraisal Errors:** 6 errors (`H-L-S-C-R-C`: Halo/Horn, Leniency, Strictness, Central tendency, Recency, Contrast).
+
+### 3. MRI Sir Operations Formulas (CO3: Operational Management)
+
+- **Annual Demand Conversion:** Convert demand to annual units before any calculation: $D = \bar{d} \times 260\text{ days}$ or $D = d_w \times 52\text{ weeks}$.
+- **Economic Order Quantity:** $EOQ = \sqrt{\frac{2DS}{H}}$.
+- **Lead Time Demand Standard Deviation:** $\sigma_L = \sigma_d \sqrt{L}$ or $\sigma_L = \sigma_w \sqrt{L}$ (ensure demand rate standard deviation $\sigma$ and lead time $L$ share the same time units: both in days or both in weeks).
+- **Reorder Point (ROP):** State in MRI Sir's 4-line chain:
+
+$$
+ROP = \text{Average demand during lead time } (dl) + \text{Safety stock } (z\sigma_L) = dl + z\sigma_L
+$$
+
+- **Inventory Position & Decision Rule:** $IP = OH + SR - BO$. Boxed rule:
+
+$$
+\boxed{IP \le ROP} \implies \text{Place a new order of size } Q = EOQ
+$$
+
+$$
+\boxed{IP > ROP} \implies \text{Do not place an order}
+$$
+
+- **Full Annual Policy Cost:** Use MRI Sir's full formula including safety stock holding cost:
+
+$$
+C = \frac{Q}{2}(H) + \frac{D}{Q}(S) + H z \sigma_L
+$$
+
+- **Order Count and Cycle Timing:** Orders per year $N = \frac{D}{EOQ}$; Time Between Orders $TBO = \frac{EOQ}{D} \times \text{time basis} = \frac{\text{operating days or weeks}}{N}$ (quote verbatim definition: *"The average length of time that elapses between two consecutive inventory orders"*).
+- **Productivity Ratios:** Single-Factor $SFP = \frac{\text{Output}}{\text{Single Input}}$; Multifactor $MFP = \frac{\text{Total Output Value}}{\sum \text{Input Costs}}$. Period-over-period change: $\% \Delta P = \frac{P_{\text{new}} - P_{\text{old}}}{P_{\text{old}}} \times 100\%$.
 
 ---
 
