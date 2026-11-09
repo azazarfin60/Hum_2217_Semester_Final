@@ -1,120 +1,130 @@
 ---
-title: "99 · One-Hour-Before-Exam Statutory, Threshold & Mnemonic Cheat Sheet"
+title: "99 · One-Hour-Before-Exam Easy Revision Sheet"
 tags:
   - hum2217
   - si-sir-exclusive
   - cheat-sheet
-  - statutory-directory
 ---
 
 [← 05 · Ch 4 Trade Union, CBA & Disputes](05_Ch4_Trade_Union_CBA_Disputes_and_Applied_Scenarios.md) | [🏠 Master Plan & Index](00_Last_Night_Master_Plan_and_Index.md)
 
 ---
 
-# 99 · One-Hour-Before-Exam Cheat Sheet (Shoaib Sir's 30 Marks)
+# 99 · One-Hour-Before-Exam Easy Revision Sheet (30 Marks in 10 Minutes)
 
-> [!tip] How to Use This File
-> Read this single sheet **30 to 45 minutes before walking into the exam hall**. It locks in every statutory section number, numeric threshold, mnemonic hook, and the 4-step case study template so you do not lose a single mark under Shoaib Sir's strict grading.
+> [!tip] Only What You Actually Need to Memorize!
+> This sheet contains **only the exact section numbers and numbers from SI Sir's slides & handouts**, written in plain everyday words. Read this once before walking into the exam hall!
 
 ---
 
-## 1. Contract Act, 1872 · Master Section Table (Chapter 2)
+## 1. Chapter 1: Intro to Law (Zero Section Numbers!)
 
-| Section | Statutory Term / Rule | Key Exam Keywords to Write |
+- **3 Scholar Quotes on Law:**
+  - **Holland:** *"A rule of external human action enforced by the sovereign political authority."*
+  - **Salmond:** *"The body of principles recognized and applied by the State in the administration of justice."*
+  - **Woodrow Wilson:** *"Established habit and thought of mankind backed by the authority of the government."*
+- **Industrial Law vs. Labor Law:**
+  - **Industrial Law:** Regulates **working conditions inside factories/industries** (health, safety, welfare + good employer-worker relations).
+  - **Labor Law:** Defines **rights and obligations of workers, employers, and trade unions** (wages, leave, maternity benefit, compensation).
+- **9 Reasons ECE Students Should Learn Law:**
+  1. **I**ntellectual Property Rights (patents/copyrights) · 2. **C**ompliance (safety/BTRC rules) · 3. **C**ontracts & Agreements · 4. **L**iability & Responsibility · 5. **E**thical Considerations · 6. **S**tartup & Entrepreneurship · 7. **R**egulatory Changes · 8. **C**ommunication & Collaboration · 9. **R**isk Management.
+
+---
+
+## 2. Chapter 2: Contract Act, 1872 (Only 12 Easy Section Numbers!)
+
+| Section | Topic | 1-Line Easy Meaning to Write |
 | :---: | :--- | :--- |
-| **`Sec 2(a)`** | **Proposal (Offer)** | Signifies willingness to do/abstain with a view to obtaining the assent of another. |
-| **`Sec 2(b)`** | **Acceptance & Promise** | Signifying assent to proposal = **Accepted**. Accepted proposal = **Promise**. |
-| **`Sec 2(c)`** | **Promisor & Promisee** | Person making proposal = **Promisor**; person accepting = **Promisee**. |
-| **`Sec 2(d)`** | **Consideration** | At desire of promisor, promisee or *any other person* has done / does / promises to do (*Quid pro quo*). |
-| **`Sec 2(e)`** | **Agreement** | Every promise and set of promises forming consideration for each other ($\text{Offer} + \text{Acceptance}$). |
-| **`Sec 2(g)`** | **Void Agreement** | An agreement **not enforceable by law** (*void ab initio*: zero legal effect). |
-| **`Sec 2(h)`** | **Contract** | An agreement **enforceable by law** ($\text{Agreement} + \text{Sec 10 Enforceability}$). |
-| **`Sec 2(i)`** | **Voidable Contract** | Enforceable at the option of one/more parties (aggrieved party), not the other (coercion, fraud). |
-| **`Sec 4`** | **Communication Completion** | Offer complete when **known** to offeree. Acceptance complete against proposer when **posted**; against acceptor when **received** by proposer. |
-| **`Sec 5`** | **Revocation Timing** | Offer revoked before acceptance is posted; acceptance revoked before it reaches proposer. |
-| **`Sec 7`** | **Absolute Acceptance** | Acceptance must be **absolute, unqualified**, and in usual/prescribed manner. |
-| **`Sec 8`** | **Acceptance by Conduct** | Performing conditions of a proposal = valid acceptance (*Carlill v. Carbolic Smoke Ball Co.*). |
-| **`Sec 9`** | **Express vs. Implied** | Made in words (spoken/written) = **Express**; made by conduct = **Implied**. |
-| **`Sec 10`** | **Valid Contract Essentials** | Free consent + Competent parties + Lawful consideration + Lawful object + Not expressly void. |
-| **`Sec 11–12`** | **Capacity of Parties** | Age of majority ($\ge 18$), sound mind (`Sec 12`), not disqualified by law. Minor's agreement is void. |
-| **`Sec 13–14`** | **Consent & Free Consent** | Agree on same thing in same sense (`Sec 13`). Free when no Coercion (`15`), Undue Influence (`16`), Fraud (`17`), Misrepresentation (`18`), or Mistake (`20–22`). |
-| **`Sec 23`** | **Lawful Object/Consideration** | Void if forbidden by law, defeats law, fraudulent, injurious, immoral, or against public policy. |
-| **`Sec 25`** | **No Consideration = Void** | General Rule: Agreement without consideration is void (*Ex nudo pacto non oritur actio*). |
-| **`Sec 25(1)`** | **Exception 1: Natural Love** | Written + Registered + Natural love & affection + Near relations. |
-| **`Sec 25(2)`** | **Exception 2: Past Voluntary** | Promise to compensate someone who already **voluntarily** did something for promisor. |
-| **`Sec 25(3)`** | **Exception 3: Time-Barred Debt** | Promise to pay a limitation-barred debt, in **writing** and **signed** by debtor/agent. |
-| **`Sec 25 Expl. 1`** | **Exception 4: Completed Gift** | Does not affect validity of any **gift actually made** between donor and donee. |
-| **`Sec 25 Expl. 2`** | **Inadequacy of Consideration** | Consideration need not be adequate; gross inadequacy only checked as evidence of whether consent was free. |
-| **`Sec 26–30`** | **5 Expressly Void Agreements** | Restraint of **marriage (`26`)**, **trade (`27`)**, **legal proceedings (`28`)**, **uncertain (`29`)**, **wager (`30`)**. |
-| **`Sec 37–38`** | **Performance & Tender** | Duty to perform (`Sec 37`) or valid unconditional offer/tender of performance (`Sec 38`). |
-| **`Sec 39`** | **Anticipatory / Actual Breach** | Refusal or disabling oneself before due date. Aggrieved party may **rescind immediately** OR **wait till due date**. |
-| **`Sec 56`** | **Supervening Impossibility** | Para 1: Impossible act is void *ab initio*. Para 2: **Doctrine of Frustration**: becomes impossible or unlawful after contract $\to$ **Void**. |
-| **`Sec 62–63`** | **Discharge by Agreement** | **Novation**, **Rescission**, **Alteration** (`Sec 62`); **Remission**, **Waiver** (`Sec 63`). |
-| **`Sec 65`** | **Restitution of Benefit** | When contract becomes void (e.g., under `Sec 56`), any **advance/benefit received must be restored/refunded**. |
-| **`Sec 73`** | **Breach Damages** | Compensation for loss/damage naturally arising from breach of contract. |
-| **`Sec 127` & `185`** | **Guarantee & Agency** | Benefit to debtor suffices for surety (`Sec 127`). **No consideration needed to create an Agency (`Sec 185`)**. |
+| **`Sec 2(a)`** | **Offer (Proposal)** | `X` shows willingness to do/not do something to get `Y`'s consent. |
+| **`Sec 2(b)`** | **Acceptance / Promise** | `Y` agrees to the offer = **Acceptance**. Accepted offer = **Promise**. |
+| **`Sec 2(c)`** | **Promisor & Promisee** | Maker of offer = **Promisor** (`X`); acceptor = **Promisee** (`Y`). |
+| **`Sec 2(d)`** | **Consideration** | Something given/received in return (`P` gives house, `Q` gives $\text{Tk. } 80,000$). |
+| **`Sec 2(e)`** | **Agreement** | $\text{Offer} + \text{Acceptance}$ (every promise forming consideration for each other). |
+| **`Sec 2(g)`** | **Void Agreement** | **Not enforceable by law** (e.g., minor's agreement, no consideration, betting). |
+| **`Sec 2(h)`** | **Contract** | **An agreement enforceable by law** ($\text{Agreement} + \text{Enforceable in court}$). |
+| **`Sec 2(i)`** | **Voidable Contract** | Enforceable at the **option of the victim**, not the wrongdoer (e.g., coercion/threat). |
+| **`Sec 25(1)`** | **Exception 1: Natural Love** | Valid without consideration if **in writing + registered + out of love + near relatives**. |
+| **`Sec 25(2)`** | **Exception 2: Voluntary Act** | Promise to pay someone who **already voluntarily** helped you (e.g., found lost purse). |
+| **`Sec 25(3)`** | **Exception 3: Time-Barred Debt** | Promise to pay an old time-expired debt, made **in writing and signed** by debtor. |
+| **`Sec 26–30`** | **5 Expressly Void Agreements** | **`26`** Marriage ban · **`27`** Trade/job ban · **`28`** Court ban · **`29`** Uncertain meaning · **`30`** Betting/Wager. |
+| **`Sec 56`** | **Supervening Impossibility** | Contract becomes **impossible or illegal after signing** $\to$ **Becomes Void**! |
+| **`Sec 62`** | **Mutual Agreement** | Both sides agree to replace (**Novation**), change (**Alteration**), or cancel (**Rescission**). |
+
+*(Plus: **`Sec 4`** = Acceptance complete when letter is posted; **`Sec 8`** = Acceptance by doing the condition/conduct; **`Sec 9`** = Express vs. Implied; **`Sec 127`** = Guarantee; **`Sec 185`** = Agency needs no consideration).*
+
+### Quick Checklist for the 10-Mark Case Study (`Sec 56` Impossibility vs. Breach)
+- **5 Valid Grounds (`Sec 56` Applies $\to$ Contract is VOID, Refund Advance):**
+  1. **Destruction of object** (factory/hall burns down accidentally)
+  2. **Change of law** (government import/trade ban)
+  3. **Failure of pre-conditions** (main event cancelled)
+  4. **Death or serious illness** (in personal skill jobs)
+  5. **Outbreak of war**
+- **5 Invalid Excuses (`Sec 56` Does NOT Apply $\to$ It is a BREACH, Pay Damages):**
+  1. **Price hike / loss of profit** · 2. **Third-party supplier failed** · 3. **Workers' strike** · 4. **Only 1 purpose failed out of 2** · 5. **Own fault**.
 
 ---
 
-## 2. Bangladesh Labour Act, 2006 (BLC 2006) · Master Section Table (Chapters 3 & 4)
+## 3. Chapter 3: Bangladesh Labour Code, 2006 (Suggested Sections Only!)
 
-![Workforce Threshold Statutory Ladder](diagrams/fig_master_workforce_thresholds.jpg)
-*Figure: Master Workforce Headcount Threshold Ladder under the Bangladesh Labour Act, 2006*
+![Workforce Threshold Ladder](diagrams/fig_master_workforce_thresholds.jpg)
+*Figure: Easy Headcount Numbers to Remember for Chapter 3*
 
-| Section | Statutory Topic | Exact Numbers & Rules to Write on Exam Script |
-| :---: | :--- | :--- |
-| **`Sec 2(2)`** | **Manufacturing Process** | 5 branches: (1) making/repairing/packing/treating articles, (2) pumping oil/gas/water/sewerage, (3) generating/transforming/transmitting power/gas, (4) building/repairing/breaking ships, (5) printing/book-binding. |
-| **`Sec 2(7)`** | **Factory** | Premises where **$\ge 5$ workers** work on any day of the year + manufacturing process carried on. **Excludes mines**. |
-| **`Sec 2(8)`** | **Adolescent** | Completed **14 years** but has **not completed 18 years** ($14 \text{ to } < 18\text{ yrs}$). |
-| **`Sec 2(36)`** | **Adult** | Completed **18 years** of age ($\ge 18\text{ yrs}$). *(Minor = under 18 years)*. |
-| **`Sec 2(63)`** | **Child** | Has **not completed 14 years** of age ($< 14\text{ yrs}$). Employment barred under `Sec 34`. |
-| **`Sec 2(65)`** | **Worker** | Any person (**including apprentice**) employed directly or via contractor for skilled, unskilled, manual, technical, trade promotional, or clerical work for hire/reward. **Excludes managerial/administrative staff**. |
-| **`Sec 20–27`** | **Ch. II Termination (Backup)** | **Retrenchment (`Sec 20`):** redundancy, 1m notice, 30d wage/yr, LIFO. **Discharge (`Sec 22`):** medical incapacity, 30d wage/yr. **Dismissal (`Sec 23–24`):** misconduct, charge-sheet, **7 days** to explain, inquiry. **Employer Notice (`Sec 26`):** **120d** monthly / **60d** others + 30d wage/yr. **Resignation (`Sec 27`):** **60d** monthly / **30d** others. |
-| **`Sec 41`** | **Adolescent Working Hours ONLY** | • **Factory/Mine (`41(1), (4)`):** Max **5 hrs/day**, **30 hrs/week** (**36 hrs/week** with OT).<br/>• **Other Establishments (`41(2), (4)`):** Max **7 hrs/day**, **42 hrs/week** (**48 hrs/week** with OT).<br/>• **Night Ban (`41(3)`):** Strictly prohibited **7:00 PM to 7:00 AM**.<br/>• **Shifts (`41(5)`):** Max **2 shifts**, spread-over $\le \mathbf{7.5\text{ hours}}$ each.<br/>• **Relay (`41(6)`):** Changed at most **once in 30 days** (with Inspector permission).<br/>• **Holiday & Double Work (`41(7)–(8)`):** Weekly holiday mandatory (no exemption); no work in $>1$ establishment on same day. |
-| **`Sec 45`** | **Maternity Employment Ban** | Prohibited from working for **8 weeks immediately after delivery**. No arduous/long-standing work within **10 weeks before or 10 weeks after** delivery (Tea estate light-work proviso with doctor certificate). |
-| **`Sec 46`** | **Maternity Benefit Right** | **16 weeks total paid leave** (**8 weeks pre-natal + 8 weeks post-natal**). Requires **$\ge 6\text{ months}$** service before delivery. Barred if woman has **$\ge 2$ surviving children** (gets unpaid leave only). |
-| **`Sec 47`** | **Maternity Notice & Payment** | Oral/written notice before delivery, or **within 7 days after delivery**. **3 payment options**, paid within **3 working days** of medical certificate/birth proof. Proof must be submitted within **3 months** of delivery. |
-| **`Sec 48`** | **Maternity Wage Calculation** | Paid **wholly in cash**. $\text{Daily Average Wage} = \frac{\text{Total wages earned in preceding 3 months}}{\text{Actual days worked in preceding 3 months}} \times 112\text{ days}$. |
-| **`Sec 49`** | **Death of Woman / Child** | If woman dies at/after delivery and child survives $\to$ paid to **person caring for child**; if child dies $\to$ paid to **nominee/legal heir**. If woman dies before delivery, excess already paid is **not recoverable**. |
-| **`Sec 50`** | **Maternity Dismissal Ban** | Employer cannot discharge/dismiss/terminate without sufficient cause within **6 months before** and **8 weeks after** delivery (remains liable for full maternity benefit). |
-| **`Sec 62(1–8)`** | **Fire Safety ONLY (*Precaution in case of fire*)** | `(1)` $\ge 1$ alternative connecting stairway per floor + firefighting gear. `(2)` Inspector written order. `(3)` Doors **unlocked** from inside & **opening outwards** (or sliding). `(4)` Fire exits marked in **red Bangla letters**. `(5)` Clearly **audible whistle/alarm**. `(6)` Unobstructed **free passageways**. `(7)` Escape training if **$> 10$ workers** work above ground floor or use explosives/flammables. `(8)` **Mock fire-fighting drill** + record book if **$\ge 50$ workers**: **once a year** (2006 text) / **once every 6 months** & **18% trained staff** (2013 Amendment). |
-| **`Sec 89`** | **First-Aid Appliances** | At least **1 first-aid box per 150 workers** under a trained person wearing a **badge**. **Sick room + dispensary** under medical/nursing staff if **$\ge 300$ workers**. |
-| **`Sec 90`** | **Safety Record Book** | Mandatory **Safety Record Book & Safety Board** where **$> 25$ workers** are employed. |
-| **`Sec 91`** | **Washing Facilities** | Adequate, clean, **separate and screened** washing/bathing facilities for male and female workers. |
-| **`Sec 92`** | **Canteens** | Mandatory where **$> 100$ workers** are employed; **managing committee with worker reps** fixes food & prices. |
-| **`Sec 93`** | **Shelters & Lunch Rooms** | Mandatory where **$> 50$ workers** are employed (with drinking water; no eating in workroom). If **$> 25$ female workers** $\to$ **separate shelter room**; if **$< 25$ female workers** $\to$ **screened space**. |
-| **`Sec 94`** | **Rooms for Children (Crèches)** | Mandatory where **$\ge 40$ female workers** are employed, for **children under 6 years**. Under a **trained woman**. Height **$\ge 360\text{ cm}$**, floor area **$\ge 6000\text{ sq. cm}$** *(printed as `600 sq. cm` in handout)* per child. Equipped with **cots/cradles, mother's chair, toys, and fenced shady playground**. |
-| **`Sec 99`** | **Compulsory Group Insurance** | Group insurance where **$\ge 100$ permanent workers** (2013 Amendment; **200** in 2006 text) are employed. |
-| **`Sec 176–189`** | **Trade Union Registration** | Right to form union (`Sec 176`). Apply (`Sec 177–178`) with **$\ge 30\%$ worker membership (`Sec 179(2)`)**. Exec committee ($5\text{–}35$ members, meets every **3 months**); General body meets every **1 year**. Registered by Director of Labour within **60 days (`Sec 182`)**; Certificate (`Sec 189`). |
-| **`Sec 190`** | **Cancellation of Union** | 7 grounds (own application, ceased to exist, fraud, constitution violation, unfair labour practice, membership $< 30\%$, chapter violation). Requires **Labour Court permission** (except first 2). |
-| **`Sec 194`** | **Legal Status of Union** | **Body corporate** by registered name, **perpetual succession**, **common seal**, power to acquire/hold movable & immovable property, contract, and **sue and be sued**. |
-| **`Sec 195–196`** | **Unfair Labour Practices** | **`Sec 195` (Employers · 12 items):** yellow-dog contract, anti-union bias/dismissal, coercing CBA, interfering in CBA election, hiring during lawful strike, transferring union officers (`Sec 187`), illegal lock-out.<br/>**`Sec 196` (Workers · 6 items):** intimidating workers to join/pay, coercing employer to sign settlement, illegal strike/go-slow, **Gherao** or property destruction. |
-| **`Sec 197–199`** | **Union Immunities & Rights** | **Criminal immunity (`Sec 197`)** from conspiracy; **Civil immunity (`Sec 198`)** in trade disputes; **Enforceability of restraint-of-trade agreements (`Sec 199`)**. Plus: book inspection, minor member at **$15+$ yrs**, name change (**$2/3$** consent), amalgamation (**$50\%$** turnout & **$60\%$** approval). |
-| **`Sec 202`** | **CBA & Exclusive Powers** | Sole union ($\ge 1/3$ workers) or elected by secret ballot for **2-year term**. **5 Exclusive Powers (`Sec 202(24)`):** (1) bargain with employer, (2) represent workers in proceedings, (3) give notice & declare strike, (4) nominate welfare/PF/WPPF reps, (5) conduct legal cases. |
-| **`Sec 210–211`** | **Dispute Settlement Ladder** | **1. Bipartite Talks (`210(1)–(3)`):** Written notice $\to$ meeting within **15 days** $\to$ negotiate for **1 month (30 days)**.<br/>**2. Conciliation (`210(4)–(11)`):** Report to Conciliator within **15 days** $\to$ starts within **10 days** $\to$ **30 days** to settle $\to$ Failure Certificate within **3 days**.<br/>**3. Arbitration (`210(12)–(17)`):** Joint written referral $\to$ Award within **30 days** (final, valid up to **2 years**).<br/>**4. Strike/Lock-out (`Sec 211`):** Within **15 days** of Failure Certificate, serve **7 to 14 days' notice** after secret ballot. |
+### A. Short Definitions (No Section Numbers Needed!)
+- **Factory:** **$\ge 5$ workers** working on any day + **manufacturing process** (excludes mines).
+- **Worker:** Person (including **apprentice**) doing **skilled, unskilled, manual, technical, trade promotional, or clerical work** for pay. *(Excludes managers/admin).*
+- **Age Groups:** **Child** = under $14$; **Adolescent** = $14\text{ to under }18$; **Adult** = $18+$; **Minor** = under $18$.
+
+### B. Maternity Benefits (`Sections 45 to 50`)
+- **`Sec 45` (Work Ban):** Cannot work for **8 weeks after delivery**; no heavy/standing work **10 weeks before & 10 weeks after**.
+- **`Sec 46` (16 Weeks Benefit):** **8 weeks before + 8 weeks after = 16 weeks (112 days)** paid leave. Needs **$\ge 6\text{ months}$ service**. No cash benefit if she has **$\ge 2$ surviving children** (gets unpaid leave only).
+- **`Sec 47` (Notice & 3 Payment Ways):** Notice before delivery (or within **7 days** after). Paid within **3 working days** in 1 of 3 ways. Birth proof within **3 months**.
+- **`Sec 48` (Cash Formula):** $\text{Daily Average Pay} = \text{Last 3 months total wages} \div \text{Actual days worked in those 3 months}$.
+- **`Sec 49` (If Woman Dies):** Baby lives $\to$ paid to **person caring for baby**; baby dies $\to$ paid to **nominee/family**.
+- **`Sec 50` (No Unfair Firing):** Cannot be deprived of benefit if fired without valid cause within **6 months before** or **8 weeks after** delivery.
+
+### C. Fire Safety ONLY (`Section 62`: *Precaution in case of fire* · 8 Points)
+1. **1 alternative connecting stairway** per floor + fire extinguishers.
+2. **Inspector** can give written order to fix fire escapes.
+3. Exit doors **unlocked from inside** and **opening outwards** (or sliding).
+4. Fire exits marked in **red Bangla letters**.
+5. Loud, **clearly audible whistle / fire alarm**.
+6. **Unblocked free passageways** to exits.
+7. **Escape training** if **$> 10$ workers** work above ground floor (or with explosives/flammables).
+8. **Mock fire-fighting drill** + record book if **$\ge 50$ workers** (**once a year** in handout / **once every 6 months** in amended law).
+
+### D. Adolescent Working Hours ONLY (`Section 41` · 8 Points)
+- **Factory or Mine:** Max **5 hrs/day**, **30 hrs/week** (max **36 hrs/week** with overtime).
+- **Other Establishments:** Max **7 hrs/day**, **42 hrs/week** (max **48 hrs/week** with overtime).
+- **No Night Work:** Banned from **7:00 PM to 7:00 AM**.
+- **Shifts & Relay:** Max **2 shifts** (spread-over $\le \mathbf{7.5\text{ hrs}}$); relay changed at most **once in 30 days**.
+- **Weekly Holiday & Double Job:** Weekly holiday mandatory (no exemption); cannot work in $>1$ place on the same day.
+
+### E. Welfare Measures (`Sections 89 to 94 & 99`)
+- **`Sec 89` (First-Aid):** **1 box per 150 workers** under a trained person wearing a **badge**. **Sick room + dispensary** if **$\ge 300$ workers**.
+- **`Sec 90` (Safety Book):** **Safety Record Book & Board** if **$> 25$ workers**.
+- **`Sec 91` (Washing):** Clean, **separate screened** washing/bathing spaces for men and women.
+- **`Sec 92` (Canteen):** Mandatory if **$> 100$ workers** (committee with worker reps sets menu & prices).
+- **`Sec 93` (Shelters & Lunch Room):** Mandatory if **$> 50$ workers** (with drinking water; no eating in workroom). Separate female shelter if **$> 25$ women** (screened space if $< 25$).
+- **`Sec 94` (Children's Room / Crèche):** Mandatory if **$\ge 40$ female workers** (for children **under 6 yrs**). Under a **trained woman**, height **$\ge 360\text{ cm}$**, floor area **$\ge 600\text{ sq. cm}$** *(6000 sq. cm in Act)* per child, with **cots, mother's chair, toys, and fenced shady playground**.
+- **`Sec 99` (Group Insurance):** Mandatory if **$\ge 200$ permanent workers** *(100 in amended law)*.
 
 ---
 
-## 3. Rapid-Fire Memory Hooks (Mnemonics)
+## 4. Chapter 4: Trade Union Act & Industrial Disputes (Only 8 Section Numbers!)
 
-1. **Chapter 1 · 9 Reasons Why ECE Students Must Learn Law (`I-C-C-L-E-S-R-C-R`):**
-   - **I**ntellectual Property Rights (IPR) · **C**ompliance · **C**ontracts & Agreements · **L**iability & Responsibility · **E**thical Considerations · **S**tartup & Entrepreneurship · **R**egulatory Changes · **C**ommunication & Collaboration · **R**isk Management.
-2. **Chapter 2 · 5 Valid Grounds of Supervening Impossibility (`Sec 56` · `D-D-L-N-W` $\to$ Contract Void & Discharged):**
-   - **D**estruction of subject matter (*Taylor v. Caldwell*)
-   - **D**eath or personal incapacity in personal service (*Robinson v. Davison*)
-   - **L**egislative change / Change of law (Government ban)
-   - **N**on-existence / failure of pre-conditions (*Krell v. Henry*)
-   - **W**ar outbreak
-3. **Chapter 2 · 5 Non-Qualifying Excuses (`Sec 56` · `C-D-S-F-P` $\to$ Contract NOT Discharged = Breach under `Sec 39/73`):**
-   - **C**ommercial hardship / price hikes / inflation
-   - **D**efault of a third-party supplier
-   - **S**trikes, lock-outs, or civil unrest
-   - **F**ailure of only one object out of multiple objects (*Herne Bay Steamboat v. Hutton*)
-   - **P**ersonal fault / self-induced impossibility
-4. **Chapter 2 · 7 Exceptions to "No Consideration, No Contract" (`Sec 25`):**
-   - **(1)** Natural love & affection (`Sec 25(1)`: written + registered + near relation), **(2)** Past voluntary service (`Sec 25(2)`), **(3)** Time-barred debt (`Sec 25(3)`: written + signed), **(4)** Agency (`Sec 185`), **(5)** Guarantee (`Sec 127`), **(6)** Charity with detriment, **(7)** Completed gift (`Sec 25 Expl. 1`).
-5. **Chapter 2 · 4-Step Case Study Script Layout (Use for All 3 Sub-Questions of the 10-Mark Case):**
-   - **1. Key Facts & Issue $\longrightarrow$ 2. Applicable Law & Section $\longrightarrow$ 3. Legal Analysis $\longrightarrow$ 4. Direct Conclusion.**
+- **7 Functions of Trade Union:** (1) Contact bridge between workers & employer, (2) Fair wages, (3) Stop unfair firing/retrenchment, (4) Reduce working hours, (5) Stop exploitation, (6) Improve factory conditions, (7) Arrange accident/death insurance.
+- **5 Legal Status Points:** (1) Statutory body, (2) Separate legal entity, (3) Own property & act as agent, (4) Hold movable/immovable property, (5) Contract, sue and be sued.
+- **8 Rights of Registered Union:** (1) Incorporation, (2) Protection from criminal case, (3) Protection from civil suit in disputes, (4) Enforceability of agreements, (5) Inspect account books, (6) Minor member at **age $15+$**, (7) Change name (**$2/3$** members agree), (8) Amalgamation/Merger (**$50\%$** vote turnout, **$60\%$** in favor).
+- **Registration (`Sec 177, 178, 179, 182`) & Cancellation (`Sec 190`):**
+  - Apply by Chairman & Secretary (`Sec 177`) + 9 details & 3 copies of constitution (`Sec 178`) + **$30\%$ workers**, $5\text{–}35$ executive members, meetings every 3m/1yr (`Sec 179`) $\to$ Registered by Director of Labour within **60 days (`Sec 182`)**.
+  - **7 Cancellation Reasons (`Sec 190`):** Own request, closed down, fraud, broke constitution, unfair labor practice, membership $< 30\%$, broke Labour Code rules.
+- **CBA (Collective Bargaining Agent):** Elected by **secret ballot** (or automatic if only 1 registered union).
+  - **5 CBA Powers:** (1) Bargain with employer, (2) Represent workers in proceedings, (3) Give notice & declare strike, (4) Nominate reps to Welfare/PF/Participation funds, (5) Conduct court cases.
+- **Settlement of Industrial Disputes (`Sec 210` Day Numbers):**
+  1. **Direct Talks:** Written notice $\to$ meet within **15 days** $\to$ talk for **1 month (30 days)**.
+  2. **Conciliator:** Report within **15 days** $\to$ starts within **10 days** $\to$ **30 days** to settle $\to$ Failure Certificate within **3 days**.
+  3. **Arbitrator:** Both sides agree in writing $\to$ Final Award within **30 days** (no appeal, valid up to **2 years**).
+- **Unfair Labor Practices:** **`Sec 195`** = by Employers (12 items: firing/transferring union leaders, bribing, hiring during strike, illegal lock-out; penalty = **1 yr jail / $\text{Tk. } 5,000$ fine**). **`Sec 196`** = by Workers (6 items: forcing workers/employer, illegal strike, go-slow, **Gherao**; penalty = **6 months jail / $\text{Tk. } 200$ fine**).
 
 ---
 
