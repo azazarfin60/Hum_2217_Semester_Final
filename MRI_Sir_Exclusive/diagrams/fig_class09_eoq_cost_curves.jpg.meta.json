@@ -1,0 +1,21 @@
+{
+  "description": "Hand-drawn graph of Economic Order Quantity (EOQ) showing Ordering Cost (OC) curve decreasing and Holding Cost (HC) line increasing, intersecting at the minimum cost EOQ point",
+  "source_image": "page_009.jpg",
+  "crop_percentages": {
+    "top": 30.0,
+    "bottom": 52.4,
+    "left": 50.0,
+    "right": 82.0
+  },
+  "crop_pixels": {
+    "x1": 1169,
+    "y1": 495,
+    "x2": 1917,
+    "y2": 866
+  },
+  "crop_size": {
+    "width": 748,
+    "height": 371
+  },
+  "figure_id": "Fig_Class09.1"
+}

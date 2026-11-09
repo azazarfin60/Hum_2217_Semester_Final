@@ -1,0 +1,21 @@
+{
+  "description": "Sawtooth cycle inventory diagram showing On-hand inventory (units) vs Time: order received at peak Q, inventory depletion at demand rate, and average cycle inventory Q/2",
+  "source_image": "page_003.jpg",
+  "crop_percentages": {
+    "top": 6.5,
+    "bottom": 27.1,
+    "left": 17.5,
+    "right": 71.5
+  },
+  "crop_pixels": {
+    "x1": 297,
+    "y1": 182,
+    "x2": 1215,
+    "y2": 758
+  },
+  "crop_size": {
+    "width": 918,
+    "height": 576
+  },
+  "figure_id": "Fig_Inv.3"
+}

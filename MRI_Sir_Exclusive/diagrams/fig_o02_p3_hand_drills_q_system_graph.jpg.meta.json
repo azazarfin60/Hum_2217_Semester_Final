@@ -1,0 +1,10 @@
+{
+  "description": "Continuous Review System sawtooth graph for Hand Drills Warehouse (2024 Q.7b / Class 10 Ex 1.2): EOQ = 440 drills, ROP = 373 drills, Lead time L = 3 days, TBO = 4.4 days across 60 annual cycles (C-1 to C-60).",
+  "crop_bbox": [
+    0,
+    0,
+    2310,
+    1276
+  ],
+  "figure_id": "fig_o02_p3_hand_drills_q_system_graph"
+}
